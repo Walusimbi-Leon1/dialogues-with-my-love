@@ -1,0 +1,7 @@
+node_modules/
+build.js
+package.json
+package-lock.json
+*.docx
+*.txt
+*.json

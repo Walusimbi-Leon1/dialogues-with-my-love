@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Dialogues with My Love — A Novel by Leon & Nazurah</title>
+<style>
+  :root {
+    --rose: #d43f5e;
+    --rose-light: #f8e0e6;
+    --dark: #1a1a2e;
+    --cream: #fdf6f0;
+    --text: #2d2d2d;
+    --text-light: #888;
+    --gold: #c9a84c;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--cream);
+    color: var(--text);
+    line-height: 1.8;
+    font-size: 18px;
+  }
+  .hero {
+    background: linear-gradient(135deg, #2c0e1a 0%, #1a1a2e 50%, #0d1b2a 100%);
+    color: white;
+    padding: 80px 20px 50px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '💕';
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 3em;
+    opacity: 0.3;
+  }
+  .hero h1 { font-size: 2.8em; color: var(--rose); margin-bottom: 10px; letter-spacing: 1px; }
+  .hero .subtitle { font-size: 1.2em; color: #ddaabb; margin-bottom: 8px; }
+  .hero .byline { font-size: 1em; color: #bbb; margin-bottom: 25px; font-style: italic; }
+  .hero .tagline { font-style: italic; color: var(--gold); font-size: 0.95em; max-width: 600px; margin: 0 auto 30px; }
+  .btn-group { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 13px 28px; border-radius: 6px; text-decoration: none;
+    font-weight: bold; font-size: 0.95em; transition: all 0.3s;
+  }
+  .btn-primary { background: var(--rose); color: white; }
+  .btn-primary:hover { background: #b83550; transform: translateY(-2px); }
+  .btn-secondary { background: transparent; color: var(--rose); border: 2px solid var(--rose); }
+  .btn-secondary:hover { background: rgba(212,63,94,0.1); transform: translateY(-2px); }
+  .btn-gold { background: var(--gold); color: var(--dark); }
+  .btn-gold:hover { background: #dbb95a; transform: translateY(-2px); }
+  .container { max-width: 820px; margin: 0 auto; padding: 40px 30px 60px; }
+  .about-section {
+    background: white; border-radius: 10px; padding: 35px;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.06); margin: 30px 0;
+  }
+  .about-section p { margin-bottom: 15px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0; }
+  .stat-card {
+    background: white; padding: 25px 30px; border-radius: 8px;
+    text-align: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    min-width: 140px; flex: 1;
+  }
+  .stat-card .num { font-size: 2.2em; font-weight: bold; color: var(--rose); }
+  .stat-card .label { font-size: 0.85em; color: #888; margin-top: 5px; }
+  .book-content h2 {
+    font-size: 1.7em; color: var(--dark); margin: 50px 0 15px;
+    padding-bottom: 8px; border-bottom: 2px solid var(--rose);
+  }
+  .book-content h3 { font-size: 1.25em; color: #333; margin: 35px 0 12px; }
+  .book-content p { margin: 12px 0; text-align: justify; }
+  .book-content .dialogue-he { color: #2c3e50; font-weight: bold; }
+  .book-content .dialogue-she { color: var(--rose); font-weight: bold; }
+  .book-content blockquote {
+    margin: 15px 0; padding: 12px 20px;
+    border-left: 4px solid var(--rose); background: white;
+    font-style: italic; border-radius: 0 6px 6px 0;
+  }
+  .book-content blockquote p { margin: 5px 0; }
+  .book-content hr { border: none; border-top: 2px solid var(--rose-light); margin: 40px 0; }
+  .book-content .narrative {
+    font-style: italic; color: #555; margin: 15px 0;
+    padding: 10px 15px; background: rgba(212,63,94,0.04);
+    border-radius: 6px;
+  }
+  .book-content .narrative::before { content: '✦ '; color: var(--rose); }
+  footer {
+    background: var(--dark); color: #888; text-align: center;
+    padding: 40px 20px; margin-top: 60px; font-size: 0.9em;
+  }
+  footer a { color: var(--rose); text-decoration: none; }
+  .license { margin-top: 12px; font-size: 0.85em; }
+  @media (max-width: 600px) {
+    .hero h1 { font-size: 1.8em; }
+    .hero { padding: 50px 15px 30px; }
+    .container { padding: 20px 15px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>💕 The Dialogues with My Love</h1>
+  <div class="subtitle">A Novel Based on a True Story</div>
+  <div class="byline">By Leon &amp; Nazurah</div>
+  <div class="tagline">"For you have seen my looking; and you know that I am Asian. And why would you want to live among the habitations of the Arabs?"</div>
+  <div class="btn-group">
+    <a class="btn btn-primary" href="#read-online">📖 Read Online</a>
+    <a class="btn btn-gold" href="./dialogues-with-my-love.pdf" target="_blank">📥 Download PDF</a>
+    <a class="btn btn-secondary" href="https://github.com/Walusimbi-Leon1/dialogues-with-my-love" target="_blank">View on GitHub</a>
+  </div>
+</div>
+
+<div class="container">
+
+  <section>
+    <h2>About This Book</h2>
+    <div class="about-section">
+      <p><strong>The Dialogues with My Love</strong> is a novel based on a true story — the intimate conversations between Leon, an African boy from Uganda, and Nazurah, an Asian girl from Malaysia. What began as a casual greeting on Telegram crossed oceans, time zones, and cultures to become something neither expected.</p>
+      <p>This is not just a love story. It is a testimony that love does not ask for proximity; it asks for truth. Through hours of late-night messages, voice notes, photographs, shared prayers, and the raw vulnerability of two young hearts learning to trust, this book captures love in its most authentic form — imperfect, passionate, and utterly real.</p>
+      <p>Follow their journey from the first "Hi" on Telegram, through the discovery of each other's worlds, the move to WhatsApp, the intimacy of growing closer, and the challenge of separation when Uganda's internet was shut down during the 2026 elections.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>By the Numbers</h2>
+    <div class="stats">
+      <div class="stat-card">
+        <div class="num">5</div>
+        <div class="label">Weeks</div>
+      </div>
+      <div class="stat-card">
+        <div class="num">2</div>
+        <div class="label">Continents</div>
+      </div>
+      <div class="stat-card">
+        <div class="num">3,968</div>
+        <div class="label">Messages</div>
+      </div>
+      <div class="stat-card">
+        <div class="num">💕</div>
+        <div class="label">True Love</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Download</h2>
+    <div class="about-section">
+      <p>The complete book is available as a PDF for offline reading.</p>
+      <p style="margin-top:15px;">
+        <a class="btn btn-primary" href="./dialogues-with-my-love.pdf" target="_blank">📥 Download PDF</a>
+      </p>
+      <p style="margin-top:10px;font-size:0.9em;color:#888;">Or read it <a href="https://github.com/Walusimbi-Leon1/dialogues-with-my-love" style="color:var(--rose);">on GitHub</a>.</p>
+    </div>
+  </section>
+
+  <!-- BOOK CONTENT INJECTED HERE -->
+
+
+
+<section id="read-online">
+  <h2>Read Online — The Complete Book</h2>
+  <div class="toc"><h2>📑 Table of Contents</h2>
+<div class="toc-h2"><a href="#preface">Preface</a></div>
+<div class="toc-h2"><a href="#chapter-1-the-beginning">Chapter 1: The Beginning</a></div>
+<div class="toc-h2"><a href="#chapter-2-love-begins">Chapter 2: Love Begins</a></div>
+<div class="toc-h2"><a href="#chapter-3-deepening-waters">Chapter 3: Deepening Waters</a></div>
+<div class="toc-h2"><a href="#chapter-4-the-language-of-love">Chapter 4: The Language of Love</a></div>
+<div class="toc-h2"><a href="#chapter-5-days-of-delight">Chapter 5: Days of Delight</a></div>
+<div class="toc-h2"><a href="#chapter-6-when-distance-cries">Chapter 6: When Distance Cries</a></div>
+<div class="toc-h2"><a href="#chapter-7-always-yours">Chapter 7: Always Yours</a></div>
+</div>
+
+  <div class="book-content">
+<h1>The Dialogues with My Love</h1>
+<p><strong>By Leon &amp; Nazurah</strong></p>
+<p><em>A novel based on a true story.</em></p>
+<hr>
+<h2 id="preface">Preface</h2>
+<p>This is a true story. Every word spoken here was spoken across oceans, between a boy in Uganda and a girl in Malaysia, between December of one year and January of the next. The conversations happened on Telegram and WhatsApp — two apps that carried the weight of a love that had nowhere else to go.</p>
+<p>The names are real. The words are real. The love is real.</p>
+<hr>
+<h2 id="chapter-1-the-beginning">Chapter 1: The Beginning</h2>
+<p><em>December 16, 2025 — Telegram</em></p>
+<p>It began with a simple question, the kind that could have been forgotten but was not.</p>
+<p><strong>She:</strong> Hi; so, you from the East or Africa?</p>
+<p><strong>He:</strong> Africa; why?</p>
+<p><strong>She:</strong> I can see that your number is from Africa.</p>
+<p><strong>He:</strong> I can also see that your number is from the East.</p>
+<p><strong>She:</strong> Are you in the East?</p>
+<p><strong>He:</strong> No; are you in the East?</p>
+<p><strong>She:</strong> In the far East; I live in the far East.</p>
+<p><strong>He:</strong> Maybe I should get citizenship in the East; and have my dwellings in the desert.</p>
+<p><strong>She:</strong> For you have seen my looking; and you know that I am Asian. And why would you want to live among the habitations of the Arabs.</p>
+<p><strong>He:</strong> Oh, is it ok with you that I am from Africa. And all Eastern people almost look alike; I can hardly differentiate them; I cannot tell that she is from Malaysia; and she is from China.</p>
+<p><strong>She:</strong> What would you like to know about Asia?</p>
+<hr>
+<p>From the first exchange, there was a rhythm between them — a playful back and forth that felt ancient, like a dance already choreographed before they ever met. She was sharp as a blade, teasing him about his father, calling herself his future stepmother, laughing at his earnestness. He was awkward and honest, unused to the attention of a girl, let alone one from so far away.</p>
+<p><strong>He:</strong> Do you work?</p>
+<p><strong>She:</strong> I am 16; and tomorrow I am 17.</p>
+<p><strong>He:</strong> Happy birthday, Asian girl.</p>
+<p><strong>She:</strong> Do you work?</p>
+<p><strong>He:</strong> No, Asian girl; I am 19; so I am a bit older than you.</p>
+<p><strong>She:</strong> Not that old, African boy.</p>
+<p><strong>He:</strong> Is your name Nazurah?</p>
+<p><strong>She:</strong> What time is it in your country side? And yes; my name is Nazurah.</p>
+<p><strong>He:</strong> It is 3:30 hours.</p>
+<p><strong>She:</strong> And you, African boy; your name is Leon.</p>
+<p><strong>He:</strong> Yes, Asian girl; my name is Leon.</p>
+<hr>
+<p>They discovered each other&#39;s names as if discovering a secret. She told him what she was doing — working on her father&#39;s duties. She asked about his father. And then, with a mischievousness that would become her trademark, she began to play.</p>
+<p><strong>She:</strong> What brings you to me, oh African boy?</p>
+<p><strong>He:</strong> Do not be afraid; for I have no bad intentions toward you.</p>
+<p><strong>She:</strong> For why should I not be under your father&#39;s bosom, and not yours?</p>
+<p><strong>He:</strong> My father has done a lot of iniquity; why would you desire to dwell with him?</p>
+<p><strong>She:</strong> I will not consider his iniquity; nor look at his transgressions.</p>
+<p><strong>He:</strong> You are stubborn, oh Asian girl.</p>
+<p><strong>She:</strong> No, I am not. You just want me for yourself, yet I want to have babies with your father.</p>
+<p><strong>He:</strong> Then what would happen to me? And what will be left for me?</p>
+<p><strong>She:</strong> Do not worry; I would nurse you as my son; and I would care for you; as one I produced.</p>
+<p><strong>He:</strong> We should leave that, oh Asian girl.</p>
+<p><strong>She:</strong> Then what? Do you want me for your brother?</p>
+<p><strong>He:</strong> No. I want you to be for none. Not for anyone.</p>
+<p><strong>She:</strong> Then what will happen to me? Would I wander in the desert with no one to help? For you have denied your whole family from me.</p>
+<p><strong>He:</strong> No, you will not wander alone in the desert.</p>
+<p><strong>She:</strong> For you will be with me, oh African boy.</p>
+<hr>
+<p>He did not know how to respond to her. She was unlike anyone he had ever spoken to — bold and laughing, hiding her softness behind jokes. And when she told him she liked his color, it struck something deep within him.</p>
+<p><strong>She:</strong> But as for me; I like your color, oh African boy. The black color is just right for me.</p>
+<p><strong>He:</strong> Oh, Asian girl; do not poison me with your words.</p>
+<p><strong>She:</strong> For the black color is like a beautiful flower under the morning sunshine; I delight when I look at it.</p>
+<p><strong>He:</strong> Oh, Asian girl; for you are going to put me down because of your words.</p>
+<p><strong>She:</strong> What have I done? Are my hands reaching to you? Or my sound coming before your ears? For I am far away, miles apart.</p>
+<p><strong>He:</strong> What shall I tell God? That I have fallen in the hands of an Asian girl, bright as the rising of the sun.</p>
+<hr>
+<p>She asked if there were any good books for her to read, for she was moved by the words of the boy. He begged her not to go, for he would miss her speech. She called him young and wondered what she had to do with him.</p>
+<p><strong>He:</strong> You have made my mind to malfunction; I no longer think like the son of my mother.</p>
+<p><strong>She:</strong> What do you want to understand from me, oh African boy? For I am Asian; and my country is in the far East.</p>
+<p><strong>He:</strong> What do you love, oh Asian girl? What interests you?</p>
+<p><strong>She:</strong> If I sleep; I feel good. And when I look into a book; I feel secure.</p>
+<p><strong>He:</strong> Sleeping and reading make you feel good. How different we are, oh Asian girl.</p>
+<p><strong>She:</strong> Do you race cars? Or do you hunt in the green forests of Africa?</p>
+<p><strong>He:</strong> I do not drive cars; neither do I look for creatures in the forest.</p>
+<p><strong>She:</strong> Then what do you do, oh African boy?</p>
+<p><strong>He:</strong> When I write; I feel good. When songs are being sung; it pleases me. And when a new thing is created; I feel joy.</p>
+<p><strong>She:</strong> Let me lay down; let me have rest, oh African boy.</p>
+<p><strong>He:</strong> May your rest be of delight; and may the dawn surprise you.</p>
+<hr>
+<p>She fell asleep, and he waited. When she woke, she asked for songs. He told her he had written songs of love for her throughout the night, but his God had not allowed him to sing them. She called him a good writer, blessed by God.</p>
+<p><strong>She:</strong> How important am I to you, that you spend time speaking with me? Even in the time of sleep, your eyes are open because of me.</p>
+<p><strong>He:</strong> I am hardworking toward what I want.</p>
+<p><strong>She:</strong> Oh, I see. What do you want, oh African boy?</p>
+<hr>
+<p>He did not answer. Perhaps he did not yet know how to say it. Instead, he asked her what she had eaten for breakfast, and she told him she loved sleeping too much to wake early. He told her he woke early and feared men, hiding from the daughters of men.</p>
+<p><strong>He:</strong> But I need someone to spend time with; a companion; one whom I will speak with; everything concerning me.</p>
+<p><strong>She:</strong> Then look out in the land; and find someone to love.</p>
+<hr>
+<h2 id="chapter-2-love-begins">Chapter 2: Love Begins</h2>
+<p><em>December 17, 2025 — Telegram</em></p>
+<p>The next day, the river of their conversation swelled. They spoke across time zones — she waking when he had already been awake for hours, she falling asleep while the sun was still high in his sky.</p>
+<p><strong>He:</strong> Good morning, Asian girl.</p>
+<p><strong>She:</strong> I slept well, oh African boy. Now I need songs to lift me up.</p>
+<p><strong>He:</strong> Songs? For I have made a lot of them. You can listen to them throughout the whole day.</p>
+<p><strong>She:</strong> You have made songs for your God; yet for my God, you have made none.</p>
+<p><strong>He:</strong> I did not make love songs throughout the night.</p>
+<p><strong>She:</strong> Let me listen to your songs; let me consider the works of your hands.</p>
+<p><strong>He:</strong> I was thinking about you throughout the night; so I wrote songs of love for you; but my God did not allow me to sing them.</p>
+<hr>
+<p>One thousand two hundred messages flowed between them that day, covering every topic that two souls discovering each other could cover. He told her about his family.</p>
+<p><strong>He:</strong> My father and my mother are fairly apart; both by distance and by heart; for they take long without meeting each other.</p>
+<p><strong>She:</strong> That sounds horrible. So does not your mother miss her husband?</p>
+<p><strong>He:</strong> I think she does; that is why she went and had sexual relations with another man; and bore a son for a man who is not my father.</p>
+<p><strong>She:</strong> That checks the heart. Why did your mother do such a thing? She let another man put a baby in her. And what of your dad? Is he not mad at this?</p>
+<p><strong>He:</strong> Why would he be mad? For he too has committed adultery; and he too has a son in another wife; who is not my mother.</p>
+<p><strong>She:</strong> It is an unpleasant story to hear. Do not tell me more about it.</p>
+<p><strong>He:</strong> For it displeases my heart all the time; I always try to escape the imagination of it.</p>
+<hr>
+<p>She told him about her own father, a man who chased after young virgins, who argued with her mother every night but would not divorce her.</p>
+<p><strong>She:</strong> They do not divorce each other. If it were so, I would be pleased with their divorce. I wish to see my mother alone in her freedom, rather than to always see her with a sad face.</p>
+<p><strong>He:</strong> What are you going to do, Asian girl? Are you not going to speak up about this to your father?</p>
+<p><strong>She:</strong> There is nothing I can do. I just leave it up to God.</p>
+<hr>
+<p>They spoke of religion, a wall that rose between them like a sudden mountain.</p>
+<p><strong>He:</strong> What is your religion, Asian girl?</p>
+<p><strong>She:</strong> I am a Muslim; like all my relatives. What about you, African boy? What is your religion?</p>
+<p><strong>He:</strong> If I loved my father very much; and if I regarded the words of my brother; I would be a Muslim. But I am not.</p>
+<p><strong>She:</strong> If you are not a Muslim, I cannot love you. Unless you become a Muslim, I will not fall in love with you.</p>
+<hr>
+<p>And yet they could not stop talking. The wall did not stop them. He told her his brother Ashraf was Muslim; she asked if he was good to him. He said yes, and she declared that if he liked him, she would like him too. He told her he wanted to tell his mother about her, that he was lovesick.</p>
+<p><strong>She:</strong> Sure. I have no problem about that; do what pleases you. Will your mother like me? And will I find favor before her eyes?</p>
+<p><strong>He:</strong> This I say by assurance: she will be shocked at first; but she will like you; for you are lovely, Asian girl.</p>
+<p><strong>She:</strong> Perhaps, as you have said; I hope that I find favor before her eyes; and that I will not be despised by her heart.</p>
+<p><strong>He:</strong> I will tell all my family about you. None will be hidden concerning you; and all will be pleased and shall like you.</p>
+<p><strong>She:</strong> I will be pleased when they like me; and if I find favor before their hearts. When shall you tell them? For we are still babies.</p>
+<p><strong>He:</strong> I will wait for a time when they are delighted; a time when they are joy-filled. I will surprise them.</p>
+<hr>
+<p>He asked her about her siblings, and she told him she had a sister and two little brothers. He told her he had five brothers and three sisters — a sprawling family born of two parents who had found comfort in other arms. She laughed at the chaos of it, called his father&#39;s sperm quality good, and then, more gently, told him to persevere.</p>
+<p><strong>She:</strong> It is sad to be your mom, that is why she is like that.</p>
+<p><strong>He:</strong> I think this is the last baby for her to produce; because she is old now; like 47.</p>
+<p><strong>She:</strong> I see.</p>
+<p><strong>He:</strong> That is why I like my other brother much.</p>
+<p><strong>She:</strong> If he is good to you, I will like him too.</p>
+<hr>
+<p>She told him about her own family history. Her parents were both Malaysian, all her siblings from the same father and mother. She watched her father chase other women and her mother cry, and she wished they would divorce so her mother could have peace. He listened. He did not have answers. Sometimes listening was enough.</p>
+<hr>
+<h2 id="chapter-3-deepening-waters">Chapter 3: Deepening Waters</h2>
+<p><em>December 17–19, 2025 — Telegram</em></p>
+<p>The conversation turned to meeting. Across the miles, they began to plan.</p>
+<p><strong>He:</strong> Are you not interested in meeting me?</p>
+<p><strong>She:</strong> Do you want to meet me?</p>
+<p><strong>He:</strong> I would really like to, in the near future.</p>
+<p><strong>She:</strong> Sure, why not? But I need to become eighteen to get a passport first, and money to go there.</p>
+<p><strong>He:</strong> That is not a problem. I am going to get my passport this coming year.</p>
+<p><strong>She:</strong> Oh yeah?</p>
+<p><strong>He:</strong> I also need to finish my studies next year to start travelling freely.</p>
+<hr>
+<p>He asked her if she had a boyfriend. She said not yet, but maybe soon, because he was here. He asked why she had never had one, and she told him the truth.</p>
+<p><strong>She:</strong> This generation is sick. The men are sick.</p>
+<p><strong>He:</strong> Sick of what?</p>
+<p><strong>She:</strong> Some of them only want face and body. Horny bitches. In Malaysia, there are so many.</p>
+<p><strong>He:</strong> Of course, you also want face and body.</p>
+<p><strong>She:</strong> You snails.</p>
+<p><strong>He:</strong> What is a horny bitch?</p>
+<p><strong>She:</strong> Ahhhh. You are 19. You know what horny is?</p>
+<p><strong>He:</strong> But I told you I am introvert.</p>
+<p><strong>She:</strong> Ah, I see. But you have three phones and two laptops.</p>
+<p><strong>He:</strong> Because I do not speak with people, so I speak with my laptops.</p>
+<p><strong>She:</strong> Nerd.</p>
+<p><strong>He:</strong> What does that mean?</p>
+<hr>
+<p>He was innocent in ways that charmed her. He did not know the slang, the dark corners of the world she had glimpsed. He lived in his room, in his own universe, and she was amazed that he had emerged to speak with her.</p>
+<p><strong>She:</strong> If you are an introvert, why can you talk with me?</p>
+<p><strong>He:</strong> You are the cause. I am obsessed.</p>
+<p><strong>She:</strong> HAHAHAHAHA. No, you are not. I am obsessed with your dad. Money talks.</p>
+<p><strong>He:</strong> I will steal my dad&#39;s money, then.</p>
+<p><strong>She:</strong> Ah, do not do that. It is not okay. It is not good.</p>
+<hr>
+<p>They talked about food. She told him she would cook for him when they were together. She sent him pictures of her cooking — mee goreng with chicken and fish. He said it looked yummy. He told her he cooked for himself every day. She promised him Malaysian dishes.</p>
+<p><strong>She:</strong> If you are with me, I will cook for you.</p>
+<p><strong>He:</strong> What food do you like most?</p>
+<p><strong>She:</strong> I like ikan keli berlada hijau.</p>
+<p><strong>He:</strong> I do not know that food.</p>
+<p><strong>She:</strong> Because it is Malaysian food.</p>
+<p><strong>He:</strong> Is it sweet?</p>
+<p><strong>She:</strong> No, it is spicy.</p>
+<hr>
+<p>On December 18, she went to school for her year-end celebration. He woke early and waited for her message.</p>
+<p><strong>He:</strong> Good morning.</p>
+<p><strong>She:</strong> Good evening. I just came back from school. What are you doing?</p>
+<p><strong>He:</strong> Oh, I did not know you had gone to school.</p>
+<p><strong>She:</strong> It is okay. Now you know.</p>
+<p><strong>He:</strong> Were you having exams?</p>
+<p><strong>She:</strong> No. Tomorrow is my last day at school. I already had my last paper on December 4. I started exams on November 3.</p>
+<p><strong>He:</strong> So what did you go to do at school?</p>
+<p><strong>She:</strong> It is the year-end celebration. Eating. It is like a big celebration. Everyone in school — students, teachers, and others — can come and eat in each other&#39;s classes.</p>
+<p><strong>He:</strong> Oh, that is why I saw that you woke up early today. But why did you not at least send a good morning message?</p>
+<p><strong>She:</strong> HAHAHAHAHA. I was so busy that time. Eating food and having a party.</p>
+<p><strong>He:</strong> Did you take photos?</p>
+<p><strong>She:</strong> We cannot use our phone. But all the photos are on my teacher&#39;s phone.</p>
+<hr>
+<p>He asked if she was in the photos. She sent him one. He misidentified her in the picture, and she laughed at him.</p>
+<p><strong>She:</strong> It is not me. I am not black. HAHAHAHAHA.</p>
+<p><strong>He:</strong> So you hid the face of your friend.</p>
+<p><strong>She:</strong> Yes.</p>
+<p><strong>He:</strong> Now I understand. But in this photo, you look a bit fat.</p>
+<p><strong>She:</strong> Did my face in the photo look different? Yeah, because I was wearing a hijab too. It makes my cheeks look fat.</p>
+<p><strong>He:</strong> Do you wear hijab every day?</p>
+<p><strong>She:</strong> Sometimes. At school, yes. Outside, sometimes I wear and sometimes I do not.</p>
+<hr>
+<p>On December 19, he lost access to the internet. He apologized when he returned.</p>
+<p><strong>He:</strong> Hi. Good morning. Yesterday I lost access to the internet. Sorry.</p>
+<p><strong>She:</strong> Hey. Morning. No, it is okay. I understand.</p>
+<p><strong>He:</strong> Did you go to school today?</p>
+<p><strong>She:</strong> No, I do not go to school. I want to take my sister back from her dormitory.</p>
+<p><strong>He:</strong> Is she at home right now?</p>
+<p><strong>She:</strong> No. I am on the way to take her back home.</p>
+<p><strong>He:</strong> You are going to pick her up from the dormitory and come back home with her. Is their dormitory far from your home?</p>
+<p><strong>She:</strong> Yes, it is, but not too far.</p>
+<p><strong>He:</strong> Do you go by taxi?</p>
+<p><strong>She:</strong> No, I am with my family.</p>
+<p><strong>He:</strong> Wait, are you at home?</p>
+<p><strong>She:</strong> Yes.</p>
+<p><strong>He:</strong> I am confused.</p>
+<p><strong>She:</strong> I know you are confused.</p>
+<hr>
+<p>He asked about her family, and she told him she lived with seven members — her father, mother, two brothers, her sister, and her grandmother. He asked if she was using her phone in front of her mother, and she said her mother worked. She was going to pick up her sister with her grandmother, little brother, and father.</p>
+<p><strong>He:</strong> At what time are you going to pick your sister?</p>
+<p><strong>She:</strong> Right now.</p>
+<p><strong>He:</strong> Is it the last day for your sister&#39;s school, or a visitation day?</p>
+<p><strong>She:</strong> Wait.</p>
+<p><strong>He:</strong> When you say wait, does that mean you are going offline?</p>
+<p><strong>She:</strong> HAHAHAHA. I need to buy something.</p>
+<hr>
+<p>Small moments. The texture of a love being woven.</p>
+<hr>
+<h2 id="chapter-4-the-language-of-love">Chapter 4: The Language of Love</h2>
+<p><em>December 24, 2025 — Telegram to WhatsApp transition</em></p>
+<p>On Christmas Eve, he called her to come this side, love. He was wearing formal clothes his father had sent him. She teased him gently.</p>
+<p><strong>He:</strong> Right now, it is hard to concentrate.</p>
+<p><strong>She:</strong> HAHAHAHA, why? But why do you wear clothes like that? Like you have a meeting. It suits you.</p>
+<p><strong>He:</strong> My father sent them; and I must familiarize myself with them. Do you not like them, my love?</p>
+<p><strong>She:</strong> Ah, I see. That is good; it is pretty. I am here for you. I can iron them for you, do not worry. I very much like it.</p>
+<p><strong>He:</strong> But I have no one to iron them for me.</p>
+<p><strong>She:</strong> I am here for you. I can iron them for you. Do not worry.</p>
+<hr>
+<p><em>December 26, 2025 — WhatsApp</em></p>
+<p>The conversation moved to WhatsApp. Something had shifted between them. The barrier of distance began to dissolve, and they began to speak the language of longing.</p>
+<p><strong>She:</strong> Goodnight, Leon. Wish you dream about me.</p>
+<p><strong>He:</strong> Good night, love.</p>
+<p><strong>She:</strong> Sweet dreams too. Love you, Leon.</p>
+<p><strong>He:</strong> But I might masturbate then. I am bad.</p>
+<p><strong>She:</strong> No, you are not. You are not bad. You should release your sperm.</p>
+<p><strong>He:</strong> I am not feeling good at all; and when you go off, it is going to be severe.</p>
+<p><strong>She:</strong> Ah, please. Just masturbate. It is okay. Think about me. My pussy, my breasts. All of it is yours.</p>
+<p><strong>He:</strong> Yes.</p>
+<p><strong>She:</strong> Goodnight, love you.</p>
+<p><strong>He:</strong> I might masturbate; but when I do, I will tell you tomorrow.</p>
+<p><strong>She:</strong> Okay, baby.</p>
+<hr>
+<p>The next morning, he woke aching for her.</p>
+<p><strong>He:</strong> Good morning, whom I love. I wish I was near you this time; we would have enjoyed a good sex morning.</p>
+<p><strong>He:</strong> My dick is hard. It is still paining; even my balls have started to pain.</p>
+<p><strong>He:</strong> How did you sleep, my love? I hope my pussy slept well with you. My breasts, your lips, and all your body — is mine.</p>
+<p><strong>He:</strong> If I was there, you would have woken up when my dick is inside your pussy; then you would make loud cries in bed.</p>
+<p><strong>He:</strong> Please keep my pussy safe, in between your legs; and do not let Malaysian boys play with your breasts.</p>
+<hr>
+<p>On the night of December 27, their passion rose like a tide.</p>
+<p><strong>She:</strong> Please be always inside me.</p>
+<p><strong>He:</strong> I already came. Please continue. Do not stop.</p>
+<p><strong>She:</strong> I am not. I am still in the mood. Are you jerking fast?</p>
+<p><strong>He:</strong> Not very fast. I am soon cumming.</p>
+<p><strong>She:</strong> Cum inside me, please. Do not pull it out.</p>
+<p><strong>He:</strong> I do not want to lose these pleasures.</p>
+<p><strong>She:</strong> Make babies with me.</p>
+<p><strong>He:</strong> I cannot get out of your warm pussy.</p>
+<p><strong>She:</strong> Do not pull it out. I need your big dick inside me.</p>
+<p><strong>He:</strong> This is what I always wanted.</p>
+<p><strong>She:</strong> It is too good, Leon.</p>
+<hr>
+<p>They were more than words of lust. They were the language of two souls who had found each other and wanted to be one, to dissolve the distance, to taste what could only be imagined. In the small hours, while the world slept around them, they built a universe of two.</p>
+<p>On December 28, they spoke of deeper things.</p>
+<p><strong>He:</strong> When I die; after I rise, we shall be having much money.</p>
+<p><strong>She:</strong> Why do you always say you are going to die? Are you sick?</p>
+<p><strong>He:</strong> Not real dying, but stopping using my devices feels like dying.</p>
+<p><strong>She:</strong> HAHAGA. Okay, okay. But stop saying you are going to die.</p>
+<p><strong>He:</strong> Will you manage my apps and business? Or I leave them with Natalia.</p>
+<p><strong>She:</strong> Leave them with Natalia. Maybe she knows what to do with them.</p>
+<p><strong>He:</strong> I think you two should know each other.</p>
+<p><strong>She:</strong> Nah, I am good.</p>
+<hr>
+<p>There was tenderness beneath the joking. He was entrusting her with his life, even in words spoken lightly. She deflected, but she heard him.</p>
+<p>On December 30, he asked her to go to her bedroom, away from her family.</p>
+<p><strong>She:</strong> I am back.</p>
+<p><strong>He:</strong> Are you in bed?</p>
+<p><strong>She:</strong> No, I am in the living room. Why? My whole family is here.</p>
+<p><strong>He:</strong> Can you go to your bedroom?</p>
+<p><strong>She:</strong> Why? But my sister is there.</p>
+<p><strong>He:</strong> I wanted you to do something, but it is unfortunate that your sister is there.</p>
+<p><strong>She:</strong> Like what?</p>
+<p><strong>He:</strong> Like touching your thigh.</p>
+<hr>
+<p>The new year arrived and they welcomed it together through the screen.</p>
+<p><em>January 1, 2026 — WhatsApp</em></p>
+<p>She sent him a picture of her dog. She asked about his songs. He said they were for her. She listened to them, sent hearts. He told her he missed her. She missed him too. The words were simpler now, stripped of elaborate poetry, replaced by the intimacy of daily life.</p>
+<hr>
+<h2 id="chapter-5-days-of-delight">Chapter 5: Days of Delight</h2>
+<p><em>January 5–12, 2026 — WhatsApp</em></p>
+<p>These were the golden days. The rhythm of their love had settled into something warm and constant. Every morning, he greeted her. Every evening, she told him about her day.</p>
+<p>On January 6, he confessed that he had not bathed, that he had spent two hours watching television.</p>
+<p><strong>She:</strong> HAHAHAHA, what? You will get stinky.</p>
+<p><strong>He:</strong> I should go and bathe; but no, not now. I feel ashamed before my room. My room is like a temple of God.</p>
+<p><strong>She:</strong> HAHAHAHA. Why do you say that?</p>
+<p><strong>He:</strong> No one with sin can enter it. It is very holy.</p>
+<p><strong>She:</strong> So I cannot enter it?</p>
+<p><strong>He:</strong> In two days, you can be purified.</p>
+<p><strong>She:</strong> Like how? With holy water, or what?</p>
+<p><strong>He:</strong> Holy environment. The reason why I do not want to meet people is that people have a lot of sin.</p>
+<p><strong>She:</strong> Ah, I see.</p>
+<hr>
+<p>He was strange and she loved him for it. A boy who stayed in his room, who wrote songs, who built apps, who called his room a temple and himself its solitary priest. She saw his strangeness and chose it.</p>
+<p>On January 7, their morning greeting was tender.</p>
+<p><strong>He:</strong> Good morning, love.</p>
+<p><strong>She:</strong> Hey, baby. Good morning too. How are you doing?</p>
+<p><strong>He:</strong> I am good, love. Hope you are also good.</p>
+<p><strong>She:</strong> I am good too.</p>
+<p><strong>He:</strong> I love you so much.</p>
+<p><strong>She:</strong> I love you more.</p>
+<hr>
+<p>He sent her a photo on view once. She sent one back. He asked why view once.</p>
+<p><strong>He:</strong> I want it in real image. I want to keep it.</p>
+<p><strong>She:</strong> Ah.</p>
+<p><strong>He:</strong> Have you eaten?</p>
+<p><strong>She:</strong> Wait, I want to wash my face.</p>
+<hr>
+<p>Simple. Beautiful. The small rituals of a love growing deep roots.</p>
+<p>On January 10, his father sent a message that troubled them. His father said she would eat his money and that he would find Leon a wife. She received the news with a lightness that surprised him.</p>
+<p><strong>He:</strong> He has said that you will eat my money; and that he is going to get me a wife.</p>
+<p><strong>She:</strong> Ah, I see. It is okay. Maybe he is right.</p>
+<p><strong>He:</strong> Please, love. Do not be angry. I fear to lose you.</p>
+<p><strong>She:</strong> I fear to lose you too, maybe someday, but not now.</p>
+<p><strong>He:</strong> If you red flag me, I will again repeat praying and fasting to God.</p>
+<p><strong>She:</strong> Ah, Leon, you cannot keep fasting.</p>
+<p><strong>He:</strong> I fasted when I was praying for a girlfriend. I am okay with fasting; it pleases me.</p>
+<p><strong>She:</strong> So your dad will get you a girl?</p>
+<p><strong>He:</strong> No. I fear losing you.</p>
+<hr>
+<p>On January 12, she woke early — unusual for her — and greeted him.</p>
+<p><strong>She:</strong> Good morning.</p>
+<p><strong>He:</strong> Good morning, love. How are you?</p>
+<p><strong>He:</strong> Are you the one who cooks when your sister is not around?</p>
+<p><strong>She:</strong> Yeah. But if I am too lazy, my dad will cook.</p>
+<p><strong>He:</strong> Today I might go into the city to pick up my National Identity card. Do you have one?</p>
+<p><strong>She:</strong> Yes. In Malaysia, you get an ID when you are twelve, on your birthday.</p>
+<p><strong>He:</strong> That is great. I did not know that. So you can get a passport.</p>
+<p><strong>She:</strong> I am waiting until I turn eighteen to get one.</p>
+<hr>
+<p>They planned their meeting. Uganda or Malaysia. Somewhere in between. He told her he loved her. She told him she loved him more. These were the days of delight, when love was new and the world had not yet tested them.</p>
+<hr>
+<h2 id="chapter-6-when-distance-cries">Chapter 6: When Distance Cries</h2>
+<p><em>January 13–21, 2026 — WhatsApp &amp; Telegram</em></p>
+<p>The outage came without warning.</p>
+<p>On January 13, he sent her a message that would become the last for days.</p>
+<p><strong>He:</strong> God shows that He loves me because He gave you to me. I sometimes think it is not real.</p>
+<p><strong>She:</strong> HAHAHAHA. It is real.</p>
+<p><strong>He:</strong> I feel like crying if it is real. I never thought it could happen.</p>
+<p><strong>She:</strong> Why do you say that? Did you think I am a bot or something?</p>
+<p><strong>He:</strong> Dad has sent resumes. See you later. Love you.</p>
+<p><strong>She:</strong> Ah, okay, baby. Love you too.</p>
+<p><strong>He:</strong> At 00.</p>
+<p><strong>She:</strong> Hey, Leon. Are you still doing resumes?</p>
+<p><strong>She:</strong> Baby?</p>
+<p><strong>She:</strong> Is the power gone again?</p>
+<p><strong>She:</strong> Baby, Leon.</p>
+<hr>
+<p>He did not reply. The internet had been cut across the country. In Uganda, elections were approaching. The government shut down the networks, and Leon fell silent.</p>
+<p>She waited.</p>
+<p>On January 14, she sent another message.</p>
+<p><strong>She:</strong> Today at 00? Or is the power still not coming yet? I miss you, though. Leon.</p>
+<hr>
+<p>On January 16.</p>
+<p><strong>She:</strong> Leon? Are you there?</p>
+<p><strong>She:</strong> Goodnight, Leon. Hope you text me back.</p>
+<hr>
+<p>On January 17.</p>
+<p><strong>She:</strong> I miss you.</p>
+<hr>
+<p>Five days of silence. Five days of her reaching into the void. She did not know what had happened. She only knew that the boy who had spoken to her every day, who had called her his love, who had imagined their future together, had vanished.</p>
+<p>Then, on January 18, he returned.</p>
+<p><strong>He:</strong> Hi, love. I am so sorry, my love, for all of this. We had internet blockage in our country since January 13 up to today. This is because of the presidential elections that were taking place. I am very sorry, my love. I also missed you a lot.</p>
+<p><strong>He:</strong> I love you so much, my love. You should know. I was feeling bad when we were not having internet.</p>
+<p><strong>He:</strong> How are you, my love? Is everything okay with you?</p>
+<p><strong>She:</strong> Yes, Leon. I just woke up.</p>
+<p><strong>He:</strong> Sorry for bothering you.</p>
+<p><strong>She:</strong> No, it is okay. I will text you later, can I?</p>
+<p><strong>He:</strong> Okay, love.</p>
+<p><strong>She:</strong> The government has cut off the internet. Why?</p>
+<p><strong>He:</strong> Because of elections.</p>
+<hr>
+<p>They switched to Telegram when WhatsApp was unreliable. The messages flowed again, urgent and sweet.</p>
+<p><strong>She:</strong> Hi, baby. I miss you so badly.</p>
+<p><strong>He:</strong> That is sweet. I miss you too.</p>
+<p><strong>She:</strong> I am good. What have you been doing all the time?</p>
+<p><strong>He:</strong> Making songs.</p>
+<p><strong>She:</strong> Ah, good.</p>
+<p><strong>He:</strong> Did boys bother you?</p>
+<p><strong>She:</strong> It is so disturbing. When I want to sleep, everything sucks. When I am not sleeping, everything goes well.</p>
+<p><strong>He:</strong> How?</p>
+<p><strong>She:</strong> Like when I want to close my eyes, Wafiy — my little brother — will open the door and hug me or cry for my phone and get mad.</p>
+<p><strong>He:</strong> Ok, I see.</p>
+<hr>
+<p>He told her about the uncertainty in the country, about the elections, about how he could not go to the city for his ID.</p>
+<p><strong>He:</strong> There is uncertainty in the country because of elections. I cannot go into the city.</p>
+<p><strong>She:</strong> Ah, I see. Pity you, my baby. It must be hard there, is it not?</p>
+<p><strong>He:</strong> I hate this country. When I leave it, I do not want to return to it.</p>
+<p><strong>She:</strong> I know. But do not forget about your mom, just that.</p>
+<p><strong>He:</strong> I cannot forget her. I will be sending her money.</p>
+<p><strong>She:</strong> Good boy, baby.</p>
+<hr>
+<p>He asked her what she had thought of him being offline. She admitted the worry, the waiting.</p>
+<p><strong>He:</strong> I got worried. I thought about what you could be thinking about me being offline.</p>
+<p><strong>She:</strong> I thought maybe you lost interest in me.</p>
+<p><strong>He:</strong> Never, my love. Never.</p>
+<hr>
+<p>The government relaxed restrictions slowly. On January 19, he messaged her again.</p>
+<p><strong>He:</strong> Good morning, love. Hope you slept well.</p>
+<p><strong>She:</strong> WhatsApp works only after turning on a VPN. What VPN do you use?</p>
+<hr>
+<p>On January 20, he told her the name of his VPN. They spoke briefly, but the connection was fragile. The days of constant conversation were over. Now every message was precious, every reply a gift.</p>
+<p><strong>He:</strong> It is called Hamara Tunnel. Good morning, love.</p>
+<p><strong>She:</strong> Okay, baby.</p>
+<hr>
+<p>On January 21, the last message.</p>
+<p><strong>He:</strong> Hi, love.</p>
+<hr>
+<p>And then the thread went silent.</p>
+<hr>
+<h2 id="chapter-7-always-yours">Chapter 7: Always Yours</h2>
+<p><em>Conclusion</em></p>
+<p>What began as a chance encounter on Telegram — two phone numbers revealing their origins to each other — grew into something neither of them expected. From the playful banter of their first conversation, through the revelation of family wounds and religious divides, through the heat of passion and the tenderness of daily love, through the silence of an imposed separation, they had built something real.</p>
+<p>He was an African boy from Uganda. A songwriter. A builder of apps. A dreamer who called his room a temple and fasted for love. Introverted, awkward, earnest — he had lived most of his life in solitude, speaking to laptops and writing songs no one heard. And then she came.</p>
+<p>She was an Asian girl from Malaysia. A cook. A sleeper. A sharp-witted soul with a laugh that could fill a room. She had watched her parents fight and her father wander, and she had learned to hide her softness behind jokes. And then she found him.</p>
+<p>Between December 16, 2025 and January 21, 2026, they exchanged nearly four thousand messages. They spoke of God and family. They spoke of sex and bodies. They spoke of passports and futures. They said I love you more times than could be counted.</p>
+<p>And then the silence came.</p>
+<p>But love, true love, does not end with silence. It waits. It hopes. It endures.</p>
+<p><em>He: What shall I tell God? That I have fallen in the hands of an Asian girl, bright as the rising of the sun.</em></p>
+<p><em>She: For the black color is like a beautiful flower under the morning sunshine; I delight when I look at it.</em></p>
+<p><em>He: Do not go, oh Asian girl; for I will miss your speech.</em></p>
+<p><em>She: Wait until you get into my arms; you will like sleeping like you have never before.</em></p>
+<p><em>He: I fear to lose you.</em></p>
+<p><em>She: I fear to lose you too, maybe someday, but not now.</em></p>
+<p><em>He: I love you so much, my love. You should know.</em></p>
+<p><em>She: I miss you so badly.</em></p>
+<p><em>He: Hi, love.</em></p>
+<hr>
+<p>She was Nazurah. He was Leon. And their story, told between two worlds across Telegram and WhatsApp, became something sacred — a testament to the truth that love finds a way, even when every force conspires against it.</p>
+<p>For love is patient. Love is kind. Love does not envy or boast. It is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.</p>
+<p>And love, across oceans and time zones, across outages and elections, across fear and distance and the silence of severed networks, will find its voice again.</p>
+<p>Always yours.</p>
+<hr>
+<p><em>Fin.</em></p>
+<p><em>Based on real conversations between Leon and Nazurah.</em></p>
+<p><em>Telegram and WhatsApp, December 16, 2025 – January 21, 2026.</em></p>
+
+  </div>
+</section>
+
+</div>
+
+<footer>
+  <p><strong>The Dialogues with My Love</strong></p>
+  <p>A novel based on a true story — by Leon &amp; Nazurah</p>
+  <p style="margin-top:8px;">Part of the <a href="https://walusimbi-leon1.github.io/1st-teachings/">SGSS Literary Series</a></p>
+  <div class="license">
+    <p>This work is dedicated to the public domain under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>.</p>
+  </div>
+</footer>
+
+</body>
+</html>
