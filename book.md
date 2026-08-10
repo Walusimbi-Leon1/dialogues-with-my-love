@@ -1132,5 +1132,217 @@ The message glowed on the screen, then dimmed. Outside his window in Uganda, the
 
 The story did not end. It was only beginning.
 
+## Chapter 9 — The Weight of a Door
+
+In the first gray hour after he sent his goodnight, Leon did not sleep. He lay on his mat with the phone pressed against his chest, feeling the last of Nazurah's words settle into him like rain into dry earth. *I will be here. I will always be here.* He whispered it back to the ceiling. Then he got up, opened his notebook, and wrote.
+
+When morning came to Malaysia, Nazurah found three messages waiting.
+
+**He:** I could not sleep. I was thinking about you.
+**He:** I wrote something. It is not a song. It is a prayer.
+**He:** In case God is listening: thank you for the girl who says she will always be here.
+
+She smiled and pressed her palm to the warm screen. Then she wrote back.
+
+**She:** You were awake all night?
+**He:** Some nights the heart is louder than the body.
+**She:** That is the most poetic way you have ever said "I have insomnia."
+**He:** You make me poetic.
+**She:** You were already poetic. I just gave you permission.
+
+He laughed. She could tell because the voice note he sent next began with a breath, then a low chuckle, then the sound of his hand brushing his face.
+
+**He (voice):** Good morning, my love. Today I am going to try for my ID again. The man at the office says if I come early, there is a chance. I am nervous. I have been waiting for this for three years.
+
+Her chest tightened. Three years. She had known him for barely a month, and he had already given her a future to hope for. But he had been waiting for the key to that future long before she existed.
+
+**She:** You will get it. I know you will. Text me the moment you are out.
+**He:** I will. Even if the network fails, I will find a way.
+**She:** You always do.
+
+He sent a photo then — a selfie taken in the cracked mirror of his room. He was wearing his best shirt, wrinkled at the collar, and his face had a nervous seriousness she had only ever seen in his letters. She zoomed in. His eyes were tired but bright. She saved the photo.
+
+**She:** Look at you. Handsome and ready.
+**He:** You make me shy.
+**She:** Good. You make me feel too much too. We are even.
+
+The hours that followed stretched long. She was in class, but she kept her phone under the desk, watching the dot, waiting for the message. At 11:47 Malaysia time, a notification broke through.
+
+**He:** I have it. Nazurah. I have my ID. I am holding it in my hand. My name. My face. My country recognizes me. I am real.
+
+She almost cried at her desk. She typed with shaking fingers.
+
+**She:** I am so proud of you. So, so proud.
+**He:** It has my photo. The one in the white shirt. I look serious, like a man going to court.
+**She:** You look like a man going to meet the woman he loves.
+**He:** That is the same thing.
+
+She laughed out loud. The teacher looked at her. She buried her face in her notebook and wrote *April* in the margin, over and over, like a promise.
+
+That evening, Leon sent another voice note. This one had background noise — the street, the wind, the distant cry of a vendor, the hum of something that might have been a motorcycle.
+
+**He (voice):** I want to show you my country. Not the beautiful parts yet. The real parts. This is the road I walk to the internet café. It is not paved. In the dry season it is dust; in the rainy season it is mud. But today, with my ID in my pocket, it feels like gold. I am walking with my shoulders straight. I am walking like I own this road. Because I am going somewhere now. I am going to you.
+
+She listened to it twice, three times, then saved it to her favorites. She had a folder on her phone now, filled with his voice notes, his photos, his half-built songs. She called it *Our Room*.
+
+That night they talked for an hour about the passport. He explained the process with the careful precision of someone who had memorized every step.
+
+**He:** I need a passport. Then I need a visa. For Malaysia, I need to show money in the bank. I need a return ticket. I need proof of accommodation. And I need a reason to come.
+**She:** What reason will you give?
+**He:** I will tell them I am visiting a friend. A close friend.
+**She:** Is that all I am?
+**He:** It is safer. The officials do not understand love. They understand banking statements.
+
+She fell silent. The gap between their worlds flickered under her skin like a lamp on the verge of dying.
+
+**She:** How much do you need? For the passport and the visa and the ticket?
+**He:** Why?
+**She:** Because I have savings. From my part-time work. I can help.
+**He:** No.
+**She:** Leon.
+**He:** No, Nazurah. I will not take your money. I know you mean it. But I will not be a man who owes the woman he loves before he has even held her hand.
+**She:** It is not debt. It is us. That is what people do — they help each other.
+**He:** You are sixteen. You are still in school. That money is for your own dreams.
+**She:** Your face is one of my dreams.
+
+The dots hung in the air for a long time. They appeared, disappeared, appeared, disappeared. When his answer finally came, it was heavier than the others.
+
+**He:** I have never had anyone offer me something so freely. My mother gives me what she can. My friends share what they have. But you — you are offering across an ocean. For a month. For a voice you have only heard twice. I do not know what I did to deserve this.
+**She:** You wrote me a song. You named it Salam. You waited for me in the dark. That is enough.
+
+He did not argue again. But he also did not accept. She knew that stubbornness was part of what she loved. It was also the part that hurt.
+
+In the second week of February, his passport application was submitted. He sent her a photo of the receipt — a small yellow slip with his name written in careful blue ink and an official stamp at the bottom. The date of collection was marked in the corner: April.
+
+**She:** April. That is two months away.
+**He:** I have waited three years for an ID. Two months for a passport is nothing.
+**She:** You are so patient.
+**He:** No. I am not patient. I am loving you. That uses the same muscles.
+
+She sent a selfie of herself laughing, mid-motion, her hair falling across her face. He saved it instantly.
+
+**He:** You are the most beautiful thing I have ever seen.
+**She:** I look like a mess.
+**He:** A beautiful mess. A sunrise of a mess.
+**She:** Stop. You are too sweet.
+**He:** It is my nature.
+
+Then, without planning it, he pressed the call button. She answered on the second ring.
+
+**He:** Hello?
+**She:** Hi.
+
+The silence stretched between them like a new language. They had written so much to each other that the spoken voice felt like walking into a room you had only ever seen in photographs.
+
+**She:** This is weird.
+**He:** It is. But it is a good weird.
+**She:** Your accent is stronger than I expected. In my head you sounded different.
+**He:** Better or worse?
+**She:** Just different. Like the difference between a song and the live version. Both are you. But one is closer.
+
+He laughed. She heard the echo of his room around his voice. She heard the sound of him shifting, lying down, making himself at home inside the moment.
+
+**He:** You sound exactly like your voice notes. I feel like I already know you.
+**She:** You do know me.
+**He:** Yes. I know you. And I love you.
+
+She swallowed. The words were easy in text. In voice, they had weight.
+
+**She:** I love you too.
+**He:** I have to tell you something.
+**She:** What?
+**He:** I have been practicing how to say your name without thinking before I say it. I wanted it to sound natural in my mouth. Like a word I was born with.
+
+She could not speak. She was afraid if she did, she would cry.
+
+**He:** Now I have said it. It is the most beautiful word I know. And it belongs to you.
+
+She whispered, "Say it again."
+
+**He:** Nazurah.
+**She:** Again.
+**He:** Nazurah.
+**She:** One more.
+**He:** Nazurah. My Nazurah.
+
+There was a long pause. She wanted to record it, but she was too full to move.
+
+**She:** When you come here. When we finally meet. I want you to say it in the airport. In front of everyone. Right when I walk through the door. I want that to be the first thing I hear.
+**He:** I will. I will say it as loud as I can.
+**She:** You will embarrass me.
+**He:** I will embarrass both of us. That is the plan.
+**She:** Perfect.
+
+They talked until her mother knocked on the door and told her it was late. She told him goodnight, but he did not let her go.
+
+**He:** One thing before you sleep.
+**She:** Yes?
+**He:** When I came to Uganda, I thought my life was small. I thought my room was the whole world. I thought the songs I wrote would never be sung to anyone but the dark. Then you spoke to me. And the whole world rearranged itself around that moment. I do not know if this love will be easy. I know it will not be easy. But I know it is the truest thing I have ever felt. And I will spend every breath I have trying to reach you.
+**She:** Leon. That is the most beautiful thing you have ever said to me.
+**He:** It is true. Every word.
+**She:** I will spend every breath I have waiting for you.
+**He:** Then we are both spending our lives in the same direction.
+
+She lay in the dark, phone pressed to her ear, listening to his breathing. A thought surfaced, softer than the others, but true.
+
+**She:** I think I would cross the whole ocean just to hold your hand for one minute.
+**He:** I would spend the whole ocean's undrinkable water just to see you smile.
+**She:** That is a terrible trade. You would die of thirst.
+**He:** But I would die happy. It is a good death.
+**She:** Stop being a poet and go to sleep.
+**He:** I cannot. I am too happy. But I will try. For you.
+**She:** Good. Salam, my love.
+**He:** Salam, my heart. Dream of me.
+**She:** Always.
+
+She fell asleep with the call still open. He listened to her breathing until the dawn began to rise outside his window. Then he wrote one last message, knowing she would read it when she woke.
+
+**He:** I have already begun building the home we talked about. It is not a house. It is a place inside me, where you have always been. I will keep building it. Room by room. Day by day. Until the day you arrive and find the door already open.
+
+The message sat on her screen when morning came. She read it three times. Then she replied with a single line.
+
+**She:** I am on my way.
+
+That afternoon, Malaysia sent her home with the sound of rain. She stood at her window and recorded it for him — the heavy drumming on the roof, the distant rumble of thunder, the children laughing somewhere down the street. She sent it without a caption.
+
+He replied with a recording of his own. She expected more of the quiet room, the hum of the fan, the faint sound of his voice. Instead, she heard the open air. She heard gravel under his bare feet. She heard the slow, beautiful chant of the adhan rising into the dusk — the voice of the muezzin calling the faithful to prayer.
+
+**He:** This is my evening. This is the voice I grow quiet under. And now I will always hear it and think of you. The same sky, the same God, the same peace. Salam means peace. And I am sending you peace from all the way here.
+
+She played it twice. Then she typed.
+
+**She:** We have been saying Salam to each other every day. I never thought about what it meant.
+**He:** It means I want you to be safe. Every time I say it, I am asking God to keep you.
+**She:** Then I will say it more.
+**He:** So will I.
+
+They celebrated, in a quiet way, the season of waiting. He sent her photos of the mango tree behind his house and she sent him photos of the tea plantations near her aunt's place. They shared maps, trying to find the shortest line between Kampala and Kuala Lumpur, and marvelled at how the same curve of the earth could hold two such different hearts.
+
+One night, near the end of February, she woke from a dream and wrote to him before she lost it.
+
+**She:** I dreamed we were in a kitchen. It was small and bright. You were cooking something that smelled like onions and ginger. I was sitting on the counter, telling you about my day. You were laughing at me, but gently, like I was the funniest and most precious thing in the world. And I thought, This is it. This is the home. This is what all the waiting was for.
+
+He was awake. He was always awake.
+
+**He:** I dreamed of you too. I was singing to you. Not a song I knew. A new one, the one I have been writing in my head. You were crying a little. Not because you were sad. Because you believed it.
+**She:** I believe all of them.
+**He:** You should not. Some of my songs are terrible.
+**She:** I don't care. You made them for me.
+**He:** Yes. I did.
+
+April felt far away. But the thread between them grew tauter with every message, every voice note, every shared silence. He worked during the day — odd jobs, small repairs, anything that earned a little money toward the passport, the visa, the ticket. She studied at night and imagined him studying too, side by side in the dark, both of them building the same future in separate rooms.
+
+**She:** What if it doesn't work? What if the visa is refused?
+**He:** Then I will apply again.
+**She:** What if the officers do not believe you have a reason to visit?
+**He:** Then I will tell them about you. I will tell them about a girl across the ocean who saved my name and called it beautiful. I will tell them about the rain you sent me, and the kitchen in your dream, and the song I have not finished writing yet. And if they still refuse, I will wait. I will wait here, standing under the same sky, saying Salam to you every night until they change their minds.
+
+She was quiet for a long time. When she wrote again, there were no emojis, no laughter, no play.
+
+**She:** I believe you. I believe every word.
+**He:** That is enough. That has always been enough.
+
+The screen glowed between them, two points of light in two different nights. The story did not end. It was only beginning — but now the beginning had a shape. It had a door. And it was already open.
+
 ---
 
