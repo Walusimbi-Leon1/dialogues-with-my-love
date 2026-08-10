@@ -893,3 +893,244 @@ Always yours.
 *Based on real conversations between Leon and Nazurah.*
 
 *Telegram and WhatsApp, December 16, 2025 – January 21, 2026.*
+
+## Chapter 8: Where the Light Comes Through
+
+The silence that followed was different from the first.
+
+The first silence had been clean — a door closing, a network severed by a government's hand. There had been a reason for it, and when the reason passed, Leon had returned with apologies and confessions of missing her. But this silence was a door left ajar. He had whispered *Hi, love* through the crack — and then gone back into the dark.
+
+Nazurah waited.
+
+She checked her phone every few minutes. She opened Telegram, stared at the thin gray line beneath his name, closed it. Opened it again. She sent nothing — what was there to send? He had said hello and vanished. Perhaps the network had failed again. Perhaps the government had shut the tunnels down. Perhaps he was still there, typing, and the message was stuck somewhere between Kampala and Kuala Lumpur, a bird lost over the ocean.
+
+She wrote to him anyway.
+
+**She:** Baby, are you still there?
+**She:** I made pasta today. I burned it a little.
+**She:** Wafiy asked where you are. I told him you live in Africa and he asked if you have a lion. I said maybe.
+**She:** Leon, answer me.
+
+Nothing.
+
+On January 23, she sent a voice message. Her voice came out smaller than she intended. "I miss you. I'm not mad. Just tell me you're okay."
+
+The line stayed silent.
+
+She remembered what he had told her about Uganda. The elections. The soldiers in the streets. The way he said, *I hate this country. When I leave it, I do not want to return to it.* She had laughed then, because he was dramatic, because he was always so earnest about everything. Now the words circled back to her with a heavier weight. What if something had happened to him? What if he had gone to the city anyway, to get his ID, and what if—
+
+She stopped herself. *Nazurah. Stop.*
+
+But the mind does not stop because you tell it to.
+
+---
+
+On January 25, he returned.
+
+The message came at 2:47 in the morning her time. She woke to the soft glow of her phone and read it through half-open eyes.
+
+**He:** My love. I am here. I am sorry, I am sorry. The VPN stopped working. I could not reach you. I tried every day. Please forgive me.
+
+She sat up in bed, heart pounding.
+
+**She:** Leon.
+**He:** I am here, love.
+**She:** You scared me.
+**He:** I know. I am sorry. I did not mean to.
+**She:** I thought something happened to you. I thought about the elections and the soldiers and I could not sleep and I kept telling myself you were fine but I did not know and—
+
+She stopped. Her fingers were trembling.
+
+**He:** Nazurah. I am fine. I am safe. I was only locked out.
+
+She looked at the phone. Everything in her wanted to be angry. She had waited four days. Four days of opening and closing the same app, of rehearsing the same question into the dark. And he was fine. He was just locked out.
+
+**She:** Do not disappear again. Please. I cannot do that again.
+
+**He:** I will not. Not if I can help it. I will find another way.
+
+**She:** You better.
+
+**He:** I love you.
+
+**She:** I love you too, you idiot. Now stay.
+
+---
+
+He explained in the morning. The VPN had been blocked by the government, along with most of the foreign tunnels. He had spent his days walking to the village center, where a man with a satellite dish sometimes sold access to the outside world. The man had overcharged him — thousands of shillings for twenty minutes of unstable connection. Leon had paid. He had paid for all of it.
+
+**He:** I could not bear the thought of you waiting.
+
+**She:** How much did you pay?
+
+**He:** It does not matter.
+
+**She:** Leon.
+
+**He:** It does not matter. You are worth more than money.
+
+She did not know what to say to that. So she sent him a photo of herself instead — a small thing, a selfie taken in the kitchen with flour on her cheek. He saved it. He always saved everything.
+
+**He:** You are beautiful.
+
+**She:** I look like a ghost.
+
+**He:** A beautiful ghost, then. My ghost.
+
+**She:** Boo.
+
+**He:** Hahaha.
+
+---
+
+They fell back into their rhythm slowly, like a song resuming after a long pause. He told her about the elections — how the results had been announced, how the streets were quieter now, how the soldiers had begun to leave. She told him about her days, which were the same as always — school, cooking, fighting with Wafiy, sleeping. But nothing felt the same anymore. The silence had changed her.
+
+**She:** When you were gone, I kept thinking about something.
+
+**He:** What?
+
+**She:** I do not know why I stayed. I do not know why I kept texting you when you could not answer. I do not know why I got scared. We have only known each other for a month. That is nothing. That is less than nothing.
+
+**He:** It is not nothing.
+
+**She:** I know. That is what I mean. It is not nothing. And that scares me, Leon. Because I did not plan this. I did not plan to fall in love with a boy on the other side of the world.
+
+**He:** I did not plan it either. But it happened. And now I cannot imagine it not happening.
+
+**She:** That is beautiful. Did you write that for a song?
+
+**He:** Maybe. I wrote many songs about you while I was locked out. I could not send them. I wrote them in my head and in my notebook and I sang them to the dark.
+
+**She:** Sing one for me.
+
+**He:** I cannot. No internet for calls. But I will sing it to you one day. I will sing it to you when we are together.
+
+**She:** Promise?
+
+**He:** I promise.
+
+---
+
+That night, she couldn't sleep. She lay in the dark and thought about the promise. It was the kind of promise that teenagers make — the kind that evaporate with time and distance and the slow forgetting of first love. But she knew him. She knew that Leon did not make promises lightly. He fasted for love. He called his room a temple. He said *I feel like crying if it is real.*
+
+It was real. She knew it was real.
+
+She picked up her phone and wrote to him.
+
+**She:** Tell me about our future. Not the far future. The near one. What happens next?
+
+He replied within minutes. He was always awake, always waiting for her.
+
+**He:** I will get my ID. I will get my passport. I will find a way to leave Uganda.
+
+**She:** And then?
+
+**He:** I will go to Malaysia. I will find you. I will take you to dinner.
+
+**She:** What kind of dinner?
+
+**He:** Anywhere you want. I do not know Malaysian food. You will choose.
+
+**She:** I will cook for you myself. That is better than any restaurant.
+
+**He:** That is the second time you have said you will cook for me. I will hold you to it.
+
+**She:** I meant it. I cannot promise it will be good, though.
+
+**He:** It will be good. Because you made it.
+
+**She:** You are too sweet. Stop.
+
+**He:** I cannot. It is my nature.
+
+She smiled at the screen. Then she wrote the thing she had been holding back since he returned.
+
+**She:** Leon. I will wait for you. However long it takes. I will wait.
+
+There was a pause. The little dots appeared. Disappeared. Appeared again.
+
+**He:** Nazurah.
+
+**She:** Yes?
+
+**He:** I have no words. I have been writing songs my whole life and I have no words.
+
+**She:** Then do not speak. Just say okay.
+
+**He:** Okay.
+
+**She:** Okay.
+
+---
+
+On January 28, he sent her an audio file. It was not a message — it was a song. He had recorded it on his phone, his voice raw and unpolished, the notes wavering in the humid room he called a temple. She listened with her earbuds in the dark, her mother asleep down the hall, and she heard him sing for the first time.
+
+The song was called *Salam* — a greeting, a peace, a prayer. He sang in a voice she had never heard, lower than his speaking voice, rough at the edges. The words were Swahili and English, woven together like two threads of the same cloth. She did not understand all of it. She understood enough.
+
+*When the morning comes, I will find you.*
+*When the rain falls, I will be near.*
+*Oh my Asian girl, bright as the sunrise,*
+*I have crossed the whole world in my heart, and you are here.*
+
+She listened to it seven times. Then she sent him one message.
+
+**She:** That is the most beautiful thing anyone has ever made for me.
+
+**He:** It is yours. I wrote it for you.
+
+**She:** I will keep it forever.
+
+**He:** Forever is a long time.
+
+**She:** I know. Good thing I am patient.
+
+---
+
+The days that followed were gentler than the ones before. The network stabilized. The VPN held. Leon and Nazurah returned to their ordinary hours — his morning greeting when she woke, her voice note before she slept, the long shared silences that were not silences at all but the comfortable breathing of two people learning each other. He told her about the songs he was writing. She told him about the recipes she wanted to try. They argued about nothing and forgave each other in minutes. They said *I love you* like a heartbeat — constant, unconscious, always there.
+
+One night, near the end of January, she asked him the question she had been carrying for weeks.
+
+**She:** Do you believe this is real? All of this?
+
+**He:** I used to wonder if you were a bot. Remember?
+
+**She:** Hahaha. And now?
+
+**He:** Now I know you are real. Because a bot could not burn pasta and complain about their brother and laugh at my songs and tell me to stop being too sweet. A bot could not make me feel this way.
+
+**She:** What way?
+
+**He:** Like the world is bigger than I thought. Like my room is too small for what I feel. Like I have been sleeping my whole life and now I am awake.
+
+**She:** Leon. That is so beautiful.
+
+**He:** It is true. You asked me once what I would tell God. I told you I had fallen into the hands of an Asian girl, bright as the rising of the sun. I meant it then. I mean it more now.
+
+**She:** I remember that. I kept that message. I have all your messages saved.
+
+**He:** I have all of yours too. I read them when I cannot sleep.
+
+**She:** Do we sound like love letters to each other?
+
+**He:** We are love letters to each other.
+
+She laughed — that full, bright laugh he had learned to recognize. He laughed too, in his quiet, earnest way. The night stretched on. The ocean between them stayed wide. But in that moment, it did not matter. The light had found its way through.
+
+---
+
+**He:** What shall I tell the morning when it asks where I have been?
+**She:** Tell it you were with me, in a room that does not exist yet, a home we will make.
+**He:** And when the morning asks if it was worth it?
+**She:** Tell it yes. Tell it you have crossed the world in your heart, and found me waiting.
+**He:** I will tell it that. I will tell it everything.
+**She:** Good. Because I will be here. I will always be here.
+**He:** I love you, Nazurah.
+**She:** I love you, Leon. Goodnight.
+**He:** Goodnight, my love. Salam.
+
+The message glowed on the screen, then dimmed. Outside his window in Uganda, the sky was turning gray with dawn. Outside her window in Malaysia, the dark was deep and quiet. Two worlds. One thread.
+
+The story did not end. It was only beginning.
+
+---
+
