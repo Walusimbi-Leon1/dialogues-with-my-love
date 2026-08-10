@@ -1,0 +1,17 @@
+{
+  "title": "The Dialogues with My Love",
+  "subtitle": "A Novel Based on a True Story",
+  "genre": "True-story romance",
+  "author": "Leon & Nazurah",
+  "description": "The intimate real conversations between Leon, an African boy from Uganda, and Nazurah, an Asian girl from Malaysia — from a casual Telegram greeting to a love that crossed oceans, time zones, and cultures.",
+  "style": "Faithful, tender, epistolary prose built around real dialogue. Short chapters that follow the chronology of their messages.",
+  "characters": "Leon — 19, Uganda; Nazurah — 16-17, Malaysia.",
+  "setting": "Telegram and WhatsApp, December 16 2025 – January 21 2026.",
+  "notes": "The story follows their true messages. Continue from the last conversation, preserving the real voices and the timeline. Each chapter documents the next phase of their relationship.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["book.md"],
+  "htmlFiles": [],
+  "indexInject": "index.html",
+  "mdHeadingLevel": 2,
+  "targetWords": 2000
+}
