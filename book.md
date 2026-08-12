@@ -1368,5 +1368,152 @@ The application was submitted on a Thursday in the middle of March. They filled 
 
 The last week of March moved slowly, the way all waiting moves — each day a full stop, each night a comma. He checked the visa status every morning, standing at his window with the phone warm in his hand, watching the mango tree beyond the yard. She checked it every night, curled in her chair, the same three words glowing back at her: *In process. In process. In process.* On the last night of the month, he called her just before midnight. Neither of them spoke for a while. They just breathed, the way they had in the beginning, two people learning to exist in the same silence. Then he said, **He:** In three hours it will be April. **She:** I know. **He:** Every month I have known you has been a season of rain and song. I do not know what April will bring. But I know I will be bringing it to you. **She:** You cannot bring a month across the ocean. **He:** I can try. I am trying. And then, because he could not help himself, because he never could: **He:** One day I will bring you all the Aprils. All the mangoes. All the rains. Every song I have not written yet. I will lay them at your feet and call it a life. She felt the tears coming and did not stop them. **She:** I will be there. I will gather them up. And I will say Salam — she said it softly, the word now heavier and more precious than it had ever been — **She:** Salam, my love. Across the ocean, in the dark of his room, he smiled. **He:** Salam, my heart. I am on my way. The clock turned. April began. And the door, still open, began to widen.
 
+## Chapter 11 — In Process
+
+April came in like every other month — without ceremony, without announcement, without the faintest interest in the two people holding their breath on either side of the world. The mango tree outside Leon's window had begun to fruit, small and green and stubborn. In Malaysia, the rains had finally eased, leaving the air thick and gold. The season had changed. The waiting had not.
+
+Eid had come and gone in the last week of March, and Nazurah had told him about it the evening after — the new baju she wore, with the little gold buttons she had chosen at the market, the one he had said looked like the sky in her dream. The same dream, he understood, where the kitchen waited. She had sent him a photograph of the morning sky, pale and clean, taken from her window at dawn, and he had stared at it so long his eyes ached.
+
+"I wore it for you," she said, shy in a way she rarely was. "The baju. I picked the one you said looked like the sky in the dream."
+
+"The one with the gold buttons."
+
+"You remembered."
+
+He had not laughed at her, not this time. He had said, quietly, "I remember everything you show me. I keep it all. It is all I have."
+
+She had gone quiet. When she spoke again, her voice was small and steady. "Not for long."
+
+Now it was the second Friday of April, and Leon had checked the visa portal six times before noon. The words had not changed — *In process, In process, In process* — a mantra that had begun to feel less like hope and more like a door that refused to move.
+
+That night, he called her after midnight. She answered on the first ring, the way she always did, as if she had been sitting with the phone in her lap waiting for the world to speak.
+
+**He:** I am starting to think the portal is lying to us.
+**She:** It is not lying. It is just slow.
+**He:** Slow is another word for no, in some languages.
+**She:** It is not a language. It is a website. Websites are stupid and slow. People are not.
+
+He laughed, but it came out thin. She heard it — she heard everything.
+
+**He:** I am tired of the waiting. I am tired of checking the same page and seeing the same words. I am tired of hoping in a language I do not understand. Every morning I wake and think, today. Every night I sleep and think, tomorrow. But tomorrow keeps arriving, and I am never on it.
+
+She was quiet for a long moment. Then she said, very softly, **She:** You are not arriving yet. But you are coming. There is a difference.
+
+**He:** Is there?
+**She:** There is. One is a promise. The other is a threat. You have only ever promised me.
+
+He pressed the phone to his chest the way he sometimes did, and she listened to the heartbeat she had staked her whole future on. It was fast. He was nervous. He was always nervous when he said important things without the shield of a screen.
+
+**He:** If they say no —
+**She:** They will not.
+**He:** But if they do. If the door stays closed. I need you to know that I will still love you. Even if I never get to see you. Even if all I have of you is this voice and this memory and this song I wrote and cannot sing properly. I will love you until I cannot anymore. And I do not think I will ever stop being able to anymore.
+
+**She:** Then you do not need the door to open. You only need to keep loving me. And I will keep loving you. And we will be a door that opens inward in both directions, no matter where we are standing.
+
+He laughed — a real laugh this time, wet and warm. **He:** You are so much braver than me.
+
+**She:** I know. I have always known. But you make me brave by being worth being brave for. Do you understand?
+
+**He:** I understand.
+
+The next morning — the third Saturday of April, nearly a month after the application had gone through — the portal changed. She saw it first. She was at her desk, the window open, a cup of tea going cold beside her keyboard, her heart performing its usual small, tired skip as she clicked the bookmark she had clicked a hundred times. Then she stopped breathing.
+
+*Interview scheduled.*
+
+She read it three times. Four. The words did not change. A date — the following Thursday. A place — the Malaysian High Commission in Kampala. A list of documents, stated in thin official language that had no idea what it was carrying.
+
+She called him so fast she did not realize she was crying until he answered and heard her voice crumple on the far side of the world.
+
+**She:** You have to go to Kampala. Leon, they want to see you. They want to see you with their own eyes.
+
+A pause. Then the sound of him standing up, his chair scraping, his breath catching. **He:** Read it again. Slowly.
+
+She read it, and he made her read it twice more, and then he said, in the voice of a man trying very hard not to fall apart, **He:** I am going to meet you. I am going to walk into that building, and I am going to come out still walking toward you.
+
+**She:** You have to be careful. You have to practice your answers. You have to be honest with them. You have to be exactly who you are, Leon, because who you are is the one thing they cannot argue with.
+
+**He:** And who am I?
+
+**She:** You are the boy who held a phone to his chest in the middle of the night so a girl on another continent could hear his heartbeat. You are the boy who wrote a song about a door. You are the boy I love. Tell them all of it.
+
+He left for Kampala on Wednesday morning, before the sun was fully up. He wore his best shirt — the blue one, the one she had never seen but he had described to her over a call, the one with the collar that was only a little frayed. He wore the shoes he had cleaned the night before, the same ones he wore to church and to weddings and to funerals, the only pair that could stand for any occasion. He carried his documents in a plastic folder, the kind you buy at a stall for a few thousand shillings, held together at the edges with clear tape.
+
+His mother had prayed over him that morning. He had not told Nazurah this — it felt too tender, too much like a secret he wanted to keep and hold. But as the boda boda rattled through the red dust of the morning, he thought of his mother's voice, low and steady, asking God to guard her son on the road and in the city and before the strangers with the stamps.
+
+Kampala swallowed him at ten in the morning. The city was a long, loud argument of horns and calls, of women selling roasted maize at the roadside, of taxis packed so full the doors were an idea rather than a promise. He had been to Kampala before — a handful of times, each one an event, each one a small adventure he would later describe to Nazurah. But this was different. This was the city holding its breath with him.
+
+The High Commission was a quiet building in an improbable corner of the city. A fence. A gate. A guard who looked at his documents and his face and waved him through. The waiting room was neither welcoming nor hostile; it simply was — plastic chairs, a television playing something no one watched, the dull music of people on the verge of asking for things.
+
+He sat with his folder in his lap. He had brought the printed pages — the conversations that mattered most, the night she had told him about the kitchen in her dream, the morning he had first sung to her, the letter from Nazurah's mother. He did not know if any of it would matter. He did not know if any of it was the language this place wanted to hear. But he had brought it anyway, because it was the only truth he owned that was worth proving.
+
+The officer who called his name was a woman. She was not unkind, but she was not soft either; she had the practiced neutrality of someone who had told many people no and a few people yes, and who had learned not to let the difference show on her face.
+
+**Officer:** Purpose of visit.
+
+**He:** To see her. To meet her for the first time.
+
+**Officer:** Her.
+
+**He:** My sponsor. Nazurah.
+
+The officer looked at him over the folder. **Officer:** How old is she?
+
+**He:** Seventeen.
+
+**Officer:** How old are you?
+
+**He:** Nineteen.
+
+A long pause. **Officer:** Your sponsor is a seventeen-year-old girl.
+
+**He:** Yes, ma'am. And her aunt — her aunt signed the letter of guarantee. But it is the girl. It has always been the girl.
+
+**Officer:** How did you meet?
+
+He told her. He told her about the Telegram message, the one that had started as a greeting across an ocean and become a voice note, then two, then a hundred. He told her about the rain he had recorded for her, about the kitchen in her dream, about the song he had written on a borrowed guitar and could not sing properly, not even for her, not yet. He told her about the mother who had signed the letter after a single question, and the answer that had moved her: *I have heard his heartbeat.*
+
+The officer was still. The television murmured in the other room. Outside, a motorbike coughed and died.
+
+**Officer:** You are telling me she has heard your heartbeat.
+
+**He:** I held the phone to my chest, ma'am. It was the only way I could think of to let her know I was real.
+
+The officer looked at him. A long look — not unkind, not soft, but something in between, the expression of a person recognizing a thing they had not expected to find in a visa application.
+
+**Officer:** You may go. You will hear from us.
+
+He stood. He did not know what it meant. He did not know if it was yes or no or the terrible middle where answers go to die. But as he reached the door, he heard her voice behind him, quieter now, almost off the record.
+
+**Officer:** The mother. She signed it. Knowing who you are.
+
+**He:** Yes, ma'am. She signed it knowing everything.
+
+A pause. Then, barely, a nod. He walked out into the Kampala sun, and the first thing he did was find a loud corner where the traffic could not drown him out, and he called her.
+
+She answered on the first ring, the way she always did.
+
+**He:** I told them about the heartbeat.
+**She:** What did they say?
+**He:** Nothing. She said I would hear from them.
+**She:** Did she look at you like she believed you?
+**He:** I do not know. I think — I think she liked the mother. I think she liked that the mother signed it.
+**She:** Of course she liked it. It is the most honest thing we have. A mother does not sign a letter for a stranger. She signs it for a daughter's heart.
+
+He leaned against the wall, the heat of the day finally reaching him, and he laughed — a small, bright, exhausted laugh.
+
+**He:** I met you on a website. I sang to you on a phone. I told a stranger about your heartbeat. And now I am standing in Kampala, in the sun, with the whole world moving around me, and all I can think is that I am closer to you than I was yesterday.
+
+**She:** You are. And on the day you land, I will be waiting at the gate. I will be wearing the baju with the gold buttons. I will be holding a sign with your name on it.
+
+**He:** What will the sign say?
+
+**She:** It will say, "Salam, my love. I have been keeping the door open."
+
+He stood in the noise of the city, the phone held close to his cheek, hiding the tears from no one but himself.
+
+**He:** I am coming. I am coming. I am coming.
+
+The line hummed. The city moved. And somewhere between the dust of Kampala and the green of Malaysia, in the quiet machinery of a world that had no business being kind, a door that had been closed for an age began, once more, to open.
+
 ---
 
