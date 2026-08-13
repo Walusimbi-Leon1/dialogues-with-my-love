@@ -1515,5 +1515,248 @@ He stood in the noise of the city, the phone held close to his cheek, hiding the
 
 The line hummed. The city moved. And somewhere between the dust of Kampala and the green of Malaysia, in the quiet machinery of a world that had no business being kind, a door that had been closed for an age began, once more, to open.
 
+## Chapter 12 — The Door Opens
+
+The waiting was its own country, with its own weather, and Leon lived there for eleven days.
+
+He did not count the days by the calendar. He counted them by the voice notes. Each morning a message from Nazurah — her sleepy voice, the way she said his name with the morning still in it, the sound of tea stirring in a room that was across the world and growing closer by the hour. Each evening the call. The hour that belonged to them alone, when the Ugandan night came down over the tin roof and the Malaysian night rose over her balcony, and the two of them existed together in a sliver of time that was neither day nor night but the country of their voices.
+
+"Any news?" she asked on the third day.
+
+"Not yet," he said. "The officer told me to wait."
+
+"That is a good sign. They do not tell you to wait when they have already decided no. They tell you to go and hope that the news arrives quickly."
+
+"You have applied for visas before?"
+
+"No," she said. "But I have been on the internet for many years. I have read many stories."
+
+He laughed. "The internet is your embassy."
+
+"The internet brought you to me," she said. "It is a better embassy than most."
+
+On the fifth day, he went to the small church. Not the big one on the main road, with the painted ceiling and the congregation that sang until the rafters swayed — the one built by the village, where his mother had prayed before he was born, where his grandmother had prayed before that. He knelt in the quiet and the dust motes were gold.
+
+*God, I know You have many children. I know I am not the loudest one. But Nazurah has prayed for me, and her mother has written a letter, and if there is mercy in this world at all, let it be the size of this.*
+
+He did not ask again. He simply waited in the presence of the quiet, the way you wait in a room when you know someone is there.
+
+That night he asked her to stay on the line while he fell asleep, and she did, reading to him in a low voice in a language he had begun to learn in syllables: the word for *door*, the word for *home*, the word for *love*. He fell asleep to her voice, and he dreamed of a gate.
+
+---
+
+The call came on the ninth day.
+
+He was at the small table by the window, the one where he had spent so many hours with his phone propped against the salt tin, writing and rewriting. His mother was in the yard. The radio was playing a song about a man walking a long road.
+
+The phone rang.
+
+The number on the screen required no announcements. He stared at it, and the world went quiet — the same quiet as the church, the same gold dust of held breath.
+
+"Hello?"
+
+"Mr. Leon?" The voice was the officer's. The same practiced neutrality. The same careful walls.
+
+"Yes, ma'am."
+
+"This is the High Commission. We are writing to inform you —" a pause, the small shuffle of papers, the machinery of an institution turning over names and dates and files, "— that your application has been approved. The visa will be valid for ninety days from the date of entry."
+
+The room stood still. The radio kept playing. Outside, a rooster crowed, indifferent, the same as it had before.
+
+"In your travel plans," the officer said, "the airline will require —"
+
+"Ma'am."
+
+"Yes?"
+
+"Thank you."
+
+A silence. And then the officer's voice, softened by three words, almost a kindness: "Give my regards to your sponsor."
+
+The line clicked. The room was still. And then he ran into the yard.
+
+His mother looked up from the washing, saw his face, and knew.
+
+"The visa," she said. Not a question.
+
+"Amama. The visa."
+
+She wiped her hands on her dress and took his face in her two hands, and she did not say anything for a long moment. Then she said: "Her mother is a wise woman. She read the truth."
+
+"She signed the letter," he said.
+
+"You told her what you told me. That a heart does not ask permission to move."
+
+"It doesn't."
+
+"No," his mother said. "It does not. But it does ask for a door to walk through." She let go of his face and smiled — the smile that could have carried him through any border patrol. "Call her."
+
+He called her.
+
+She answered on the first ring — she had been waiting for the phone the way you wait for rain in the dry season, with the whole body listening.
+
+"Leon?"
+
+"Nazurah. The visa is approved."
+
+Silence. A long silence. He could hear her breathing; he could hear the small catch in her throat.
+
+"Say it again."
+
+"The visa is approved. I am coming. I have the papers. The officer said ninety days. I am coming to see you. I am coming to stand in front of you —"
+
+She was crying. He could hear it — a small gasp, the sound of a hand pressed over a mouth.
+
+"Nazurah?"
+
+"You are coming," she said, the way one says a miracle. "You are coming."
+
+"I do not know the date yet. I must book the flight. But —"
+
+"Come in January," she said. "The poems are all the same — they say the heart does not wait for seasons. I want you here before the month ends. I want you here before the year is too old."
+
+"You will see me," he said. "At the airport. You will see me and you will know me."
+
+"I have already seen you," she said. "In the dark, in the morning, across the world. I have seen you in the shape of your voice." A pause. "Now come, let me see you in the shape of your face."
+
+---
+
+The booking was made the next morning.
+
+He did it at the cyber in Masaka, the one with the cracked screens and the fan that whirred like a tired bird, because he needed to do it himself — to see the flight number, to watch the seats appear and disappear as he refreshed the page, to press the final button with his own thumb.
+
+His mother had given him the advance — extra shillings folded small, for "the road," she said. She had refused to take it back. "Do not arrive looking tired. Sleep on the plane if the seat allows."
+
+He entered the numbers into the small boxes of the booking form. He wrote Nazurah's name and his own. He wrote the dates.
+
+*January 21, 2026.*
+
+The day he would land.
+
+The screen spun. When it settled, there was a small green rectangle that said CONFIRMED, and he held his phone to his chest — the way he had held it before, in a different dark, on a different continent, for the same girl — and he did not mind that the cyber owner was watching, because the cyber owner had seen worse and better and had his own stories.
+
+He called her that night.
+
+"The flight is booked."
+
+"Tell me the date again."
+
+"January the twenty-first. I arrive in Kuala Lumpur in the morning. Around nine. It is written in the ticket."
+
+"Nine in the morning," she said. "I will be there before that. I will sleep badly. I will eat something nervous. I will hold the sign so that it does not blur."
+
+"What will the sign say?" he asked — knowing the answer, needing to hear it again.
+
+She repeated it, slower this time, the way you repeat a line of a poem you are testing against a room:
+
+"'Salam, my love. I have been keeping the door open.'"
+
+"Salam," he said. "My love is in the door."
+
+She laughed — the small, soft laugh that had reached across the world to him in the dark. "You are mixing the grammar, but the feeling is correct."
+
+"Then the feeling is correct," he said. "That is the language I have been learning all along."
+
+---
+
+The days before the flight were a country of their own.
+
+He said his farewells — to the red dust road, to the church with its gold dust, to the salt tin that had held his phone, to the boda boda man who asked no questions and had learned to expect Leon to be late. His mother rose early on the final morning and made him food for the journey — rice and beans wrapped in paper, a boiled egg, the good things that were also the simple things.
+
+At the door of the house, she took his face one last time.
+
+"Her mother signed a letter for you," she said. "Do not let her mother be wrong."
+
+"I will not, Amama."
+
+"When you see her," his mother said, "you will know that every voice note, every prayer, every hour between you was the road being built. A road does not explain itself to you at the beginning. It is only when you arrive that you see it was always one road."
+
+He held her. He did not know the right words to leave his country with.
+
+"The visa is ninety days," he said. "I will come home, and I will tell you everything."
+
+"You will come home," she said, "and you will tell me about her. And that will be enough."
+
+Then she pressed something into his hands — a small bundle wrapped in cloth, stitched at the edges with neat thread.
+
+"What is this?"
+
+"The beginning," she said. "Open it when you arrive. It belongs to her now."
+
+---
+
+Entebbe airport was not the airport of the movies. It was smaller, functional, full of people in a hurry who had been in a hurry for hours. Leon moved through it with his documents in the plastic folder, now with the visa page heavy inside, and he did not stop until he was standing in line for a plane for the first time in his life.
+
+The security guard looked at his passport. The passport had never been anywhere. Now it was going to Malaysia.
+
+"Safely," the guard said, handing it back. It might have been a command or a blessing.
+
+The plane was loud. It smelled of recycled air and old coffee and the particular synthetic heat of a machine about to leave the ground. Leon sat by the window, and the runway was a gray film of morning. He put his hand against the glass and felt the small vibration of the world preparing to move.
+
+The plane moved slowly at first, the way the boda boda moves on an unpaved road, and then the whole thing became a roar, a fixed determination, the wings taking the weight of the beginning.
+
+Leon closed his eyes.
+
+He saw the church. The dust motes gold. He saw his mother in the yard, the washing still blowing in the wind. He saw the small screen of his phone in a different country, a greeting arriving from across an ocean, a voice note, a hundred voice notes. He saw the rain he had recorded. The kitchen in the dream. The door in the song.
+
+*Every road,* his mother said, *was one road.*
+
+The plane broke the clouds, and the sky, for the first time since the earth and the water had been divided, held him completely.
+
+---
+
+He landed at nine in the morning, Malaysian time, on January 21, 2026.
+
+The airport at Kuala Lumpur was bigger, brighter, full of mirrors and gardens in unlikely places — a building that had decided to be beautiful because it could. Leon moved through the corridors following the signs that said BAGGAGE and EXIT, his heart doing the only thing it knew how to do, which was to keep on going.
+
+His shirt was the blue one, the good one. The collar was a little frayed — he had checked. The folder was pressed under his arm. The carousel turned, and he took his bag, and the bag was light enough to carry everything he needed for ninety days, and heavy enough to carry everything he had been.
+
+Then: ARRIVALS.
+
+The doors opened.
+
+The air changed.
+
+The crowd was everywhere — a river of families and drivers and signs held high, names written in every alphabet, faces looking for the one face among all faces. Leon stepped through the doors, and for a second the crowd was just a crowd, and then —
+
+He saw her.
+
+She was standing where she had promised, wearing the baju with the gold buttons, holding the sign. The sign was bigger than she had described — she had made it herself, the letters careful, the pen the kind that glittered — and the words on it were the words she had told him, the words he had carried across an ocean:
+
+SALAM, MY LOVE.
+I HAVE BEEN KEEPING THE DOOR OPEN.
+
+Their eyes met.
+
+The crowd did not exist.
+
+He began to walk toward her, and she began to walk toward him, and the space between them collapsed the way a song collapses into its final chord — not an ending, but the sound the whole song had been moving toward. He saw her tears before he saw anything else about her, and then he saw everything: the gold buttons, the sign, the hands holding the sign, the face that had existed for months only in the country of voice and now was standing in the country of light.
+
+He stopped in front of her.
+
+He did not know who moved first. He knew only that suddenly her hand was in his — small and real and warm — and he was holding the handle of a door that had been closed for an age, and they were both holding it, and it had opened.
+
+"Nazurah," he said. Her name, spoken to her own face for the first time.
+
+"Leon," she said. And then, because she was Nazurah, and because the world required this tenderness, she lifted the sign gently so he could see it fully — the whole message, the whole promise — and smiled and cried at once, and added, in the small soft voice he had known across the world:
+
+"I told you. I have been keeping the door open."
+
+He reached into his bag and brought out the cloth bundle his mother had given him. He opened it carefully, and inside was a square of red cloth, stitched at the edges, holding a palmful of dust from the road.
+
+"My mother sent this," he said. "She said the road that brought me to you began in dust. She asked me to give it to you so you know the beginning of it."
+
+Nazurah looked at the cloth. Her fingers touched it gently, as if it were the most precious thing in the world. She looked up at him with the softest expression he had ever seen on a human face.
+
+"Then I will keep it," she said. "The door, and the dust. The beginning and the arrival." She folded the cloth carefully and pressed it to her chest. "Tell her — tell her I will keep both."
+
+And there, in the country of light and gold buttons, with the sign against her shoulder reading the promise across an ocean, she smiled at him — the first smile of the rest of their whole lives.
+
+"Salam, my love," she said. Her name for him, at last, in person, in the morning.
+
+"Salam, my love," he said back.
+
+The crowd moved around them like water around a stone. The dust of a Ugandan road rested against the heart of a Malaysian girl. And the door, the one from the song, the one from the dream, the one that had been closed for an age — stood fully, finally, beautifully open.
+
 ---
 
