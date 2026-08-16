@@ -1758,5 +1758,113 @@ And there, in the country of light and gold buttons, with the sign against her s
 
 The crowd moved around them like water around a stone. The dust of a Ugandan road rested against the heart of a Malaysian girl. And the door, the one from the song, the one from the dream, the one that had been closed for an age — stood fully, finally, beautifully open.
 
+## Chapter 13 — The First Morning
+
+The moment did not end. It simply widened, like a door opening on a room the heart had already furnished. The crowd continued to move, but the crowd had become weather — something that happened around them without touching them. Leon did not know if he was breathing. He knew only that her hand was in his, and that her hand had weight and warmth, and that the warmth was doing something to the inside of his chest that no voice note had ever been able to do.
+
+“You are real,” she said.
+
+It was not a question, not quite a statement — it was a thing she had to say aloud before she could believe it. Her voice was the same, and different. The same pitch, the same careful rhythm, but now it arrived through air, not wire, and it carried the little breath of the room behind it.
+
+“You are real,” he said back. “I have played your voice so many times I forgot what your voice sounded like when it was not being played.”
+
+She laughed, the way she laughed in his favorite voice note — that sudden, honest laugh that cut through his shyness like a turning key. “Is that good or bad?”
+
+“It is the best thing that ever happened to a phone,” he said.
+
+Her cheeks were wet, and she did not wipe them. The sign was propped awkwardly against her shoulder — the glittering letters catching the airport light — and she was holding his hand with both of hers now, as if he might dissolve. He noticed the gold buttons on her baju were exactly as she had described: small, round, shining like seeds. She had described them to him once in a message that ended with *“don’t laugh at me for choosing gold.”* He had not laughed. He had written back: *“Gold is the color of Zimbabwe. The color of the sun before you say goodnight.”* She had sent a string of heart emojis.
+
+Now he said, “You wore the gold.”
+
+“I wore all of them,” she said. “I have never owned a button so pretty.”
+
+They should have moved. They were standing in the middle of an airport, and the airport had its own plans. But neither of them could find the instinct for motion. It was she who finally remembered the world — she who could always remember the world, because she was the one who fed the stray cats, who woke at 5 a.m. for prayers, who wrote her letters in perfect neatness while his were ink storms. She said, “We have to go out. My mother is waiting in the car.” Then, as if the sentence had surprised her, she added, “My mother is waiting in the car. And I am bringing you to her.”
+
+“Is she angry?” Leon asked. His voice was smaller than he wanted it to be. The voice of the boy who had wondered, all flig, if he would be worthy.
+
+“No,” Nazurah said. “She is cooking.” She said it as if cooking were the most peaceful activity known to man, the only answer needed. “She has been cooking since yesterday. She said —” Here Nazurah switched to a precise, gentle imitation of her mother's voice, the way she did in Telegram voice notes that made him laugh in the dark. “*If the boy is going to eat in my house, he will eat properly. I will not have a guest from Africa go hungry on his first day.*”
+
+Leon's heart moved in a way that had nothing to do with the plane. “She is not angry.”
+
+“She is not angry. She is nervous. Very nervous. She held the phone when I told her you were coming, and she said, *‘I have never met an African. I have seen the beautiful people on television, but I have never made satay for an African.’* So I told her you are just a boy. She said, *‘There is no such thing as just a boy.’*”
+
+“She is right,” Leon said. “I am not just a boy. I am a boy who flew across an ocean to see your buttons.”
+
+Nazurah lowered her forehead to his shoulder for a second — just a second — and he felt the small weight of her, the crown of her head pressing the cloth of his blue shirt. It was the most natural thing in the world. Then she straightened and took his hand again, and they began to walk.
+
+The doors of Arrivals slid open, and Malaysia met him — the warm, damp air that smelled of flowers and petrol and something fried, the humid weight of a country learning his skin. The sky was a white-grey you could almost taste. The car park was a sea of roofs. And standing beside a small grey car, wearing an apron over a violet dress, was a woman with Nazurah's face.
+
+Nazurah's mother did not look nervous. She looked like a person who had been sitting in a car park for an hour, rehearsing her smile, and had finally arrived at a smile that was real. She stepped forward before Leon could decide whether to bow or not, and she took his hands — both of them, his hands — and she looked at him, truly looked at him, the way you look at a home that has appeared in a place where there was only road before.
+
+“So,” she said. Her English was slow, careful, kind. “You are the voice.”
+
+Leon's mouth opened. Nothing came. The phrase *the voice* — that was what Nazurah had called him, perhaps, when she spoke to her mother. The voice that had come through the phone and taken up residence in her kitchen, in her prayers, in her daughter's smile. He felt the entire weight of it.
+
+“I am the voice,” he managed. “And you are the mother who cooked.”
+
+The woman laughed — a rich, warm laugh that tumbled out of her like a blessing. “Yes. I am the mother who cooked. And if you do not eat, I will not sleep. That is the rule.”
+
+Behind them, Nazurah made a soft sound. A sound of two worlds meeting. She opened the back door of the grey car, and Leon saw in the doorway a small green bag on the seat, and beside it, a fresh packet of tissues, and a bottle of water, and a folded map of Kuala Lumpur. She had thought of everything. She had always thought of everything — even before he left, she had sent him a list of Malaysian words with pronunciation notes, and had written *“you will not need them, because I will translate, but I felt safer giving them to you.”*
+
+They drove.
+
+The city slid past in patterns he had never seen: towers like folded paper, a tower that stood so tall it seemed to sway against the sky, bougainvillea spilling over fences, mosques with dates of gold. The car was old, smelled of nangka and prayer oil, and the driver's seat had a small cushion embroidered with the word *ALLAH*. Nazurah sat beside him in the back seat, close but not too close, her hands folded on her lap, her eyes moving between the window and his face.
+
+“What are you looking at?” she asked for the third time.
+
+“You,” he said.
+
+“You cannot look at me the whole drive.”
+
+“I have waited many nights to look at you,” he said. “Let me be patient in a different way now.”
+
+She blushed. He had never seen her blush before. In the voice notes, she would say *“I am so shy”* with a laugh, but shyness is a different thing when it arrives in your cheeks. She looked out the window, then back, then said softly, in Malay, “*Aku pun.*” And then, quicker, in English: “Me too.”
+
+Her mother did not turn around, but her shoulders gave a little shake — the shoulders of a woman laughing silently at something only she could hear.
+
+At the house, there was a gate, and a garden, and a swing that had been Narurah's childhood. There were slippers waiting at the door in three sizes. There was the smell of coconut and lemongrass and the deep, satisfying scent of chicken simmering in dark sauce. Nazurah's mother gestured to a large platter of food on the table — satay, rice, a sauce in a deep bowl, and something green in a wrapper. “Eat,” she said. Then she disappeared, leaving them alone for the first time in the same room.
+
+The room was small, neat, full of light. There was a picture of Nazurah's father on the wall, and a picture of a much younger Nazurah in a school uniform, and a shelf of Quran. Leon sat on the floor, the way she had told him people sit in her house — the carpet was patterned with blue flowers — and she sat across from him, and the space between them was no longer full of screens.
+
+“Say something,” she whispered. “I have your voice in my memory, but the memory is only old. I want the new thing.”
+
+Leon swallowed. “The plane — it made a sound like the sea upside down. I tried to think of a sentence to say to you when I arrived. I rehearsed it many times.”
+
+“What was the sentence?”
+
+“I said to myself: *‘The door is open, and the person holding it is yours.’*”
+
+Nazurah's eyes filled. “That is a good sentence. But I have a better one.”
+
+“What is it?”
+
+She leaned forward. She was very close now — close enough that he could see the tiny stitch in the collar of her baju, the one the gold button had pulled open just slightly. She lowered her voice to the voice she used only for him, the voice of Telegram and midnight and the small hours:
+
+“*You are here, and I am here, and the door will stay open for as long as we are both alive.*”
+
+He had no answer to that. So he did the only thing he could do: he moved slowly, carefully, the way you move in a new country, and he reached for her hands. She let him take them. The dust-red cloth was folded in her lap, pressing against her heart, and he thought of his mother in a yard far away, and the dust on the road, and all the roads that had brought him here.
+
+“I have something else from my mother,” he said. The words were difficult, because the words were tender. “She wrote a letter. She said to give it to you when I arrived.”
+
+Nazurah's lips parted. “For me?”
+
+“For you. For the girl who kept the door open.” He pulled the envelope from his shirt pocket — it had been there since Entebbe, worn soft from all the times he had touched it during the flight, checking, almost accusingly, that the letter was still there.
+
+Nazurah opened it with the reverence of someone opening a water report during a drought. The paper was lined, the writing careful and upright — the neat handwriting of a mother who had made her way in a world of stamps and signatures. She read aloud, softly, her eyes moving line by line:
+
+*“To Nazurah, my daughter from another country. I have heard your voice through my son. I have heard your kindness. I do not know your face, but I know your heart, because the heart speaks its own language and it has spoken clearly. You are the one who kept the door open. I have sent you a handful of dust from our road — the road your beloved walked to leave his country. Keep it. It is the beginning of the story. The beginning is always of dust, and dust is patient, and dust becomes earth, and earth becomes a garden. Do not let her mother be wrong — you will show her that our love is a real harvest. I will meet you, God willing, when the roads allow. Until then, you are my daughter, and I have my hands outstretched across the ocean to bless you.*”
+
+Nazurah finished. She folded the letter carefully, exactingly, like a person folding the map to a place she had already arrived at. Then she placed it beside the dust cloth, in the same fold, under her hand.
+
+“I will write back to her,” she said. “Tonight. I will write to your mother. I will tell her that the dust and the letter are in the safest place in the world.”
+
+“Where is that?” Leon asked.
+
+She touched her chest. “Here. Beside the door.”
+
+And for a long moment, neither spoke. The room, the food, the quiet hum of the fan above them, the city outside — all of it settled into a new rhythm, like a song finding its last chord. Outside, in the garden, a bird sang a note he had never heard before — a note that belonged to this place, to this morning, to the girl who had kept a door open across an ocean and now held his hands in a country of gold buttons and dust.
+
+The first morning lasted a thousand years. And then her mother called from the kitchen, “*Leon, the satay is getting cold!*” and he laughed, and Nazurah laughed, and the world, the country of light, received him fully — a boy from the dust of a long road, beloved, home.
+
 ---
 
