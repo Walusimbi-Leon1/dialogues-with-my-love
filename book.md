@@ -1916,5 +1916,171 @@ At the door, she paused. “Tonight,” she said quietly, “after my mother sle
 
 Leon smiled. The same ritual, now with a new, thrilling geography. “I will be waiting,” he said. And he knew, with a certainty that settled in his bones like the warmth of the place itself, that he would wait. For the next message, for the next silence, for the next chapter of this story that was no longer written in light across a screen, but in the shared air of a small, sunlit garden in Kuala Lumpur.
 
+## Chapter 15 — The Girl Down the Hall
+
+The gate clicked shut with a sound that felt like punctuation. Nazurah's mother came up the path, plastic bags rustling in her grip, and Leon moved to help her carry them — an instinct his own mother had drilled into him with the flat of her hand and a firm *a man carries*. Nazurah's mother allowed it, watching him with that same unreadable assessment she'd worn over tea. She handed over the heaviest bag without a word, and he took it as a kind of blessing.
+
+Dinner was quiet, intimate, deliberate. She served fish simmered in coconut and turmeric — *asam pedas*, she called it — and Leon's eyes watered in the most beautiful way. The heat was a revelation, a flavor that bloomed in the back of the throat and stayed there, insistent and warm. She asked him about Kampala: the red dust, the price of matooke at the market, the walk to his university. He answered honestly, and she nodded as if his answers confirmed something she already suspected. Nazurah ate slowly, pushing rice around her plate, and every time their eyes met she looked away with a small, private smile that made the food taste better.
+
+After dinner, her mother excused herself early, pleading a headache. But her eyes said something else: *I am giving you space, but I am watching.* She paused at the hallway, one hand on the doorframe, and looked back at them — two young people sitting at her table, washed in the yellow light of the kitchen, careful not to touch.
+
+"Leon," she said. "There is a fan in the spare room. It clicks. If it keeps you awake, hit it once, firmly, on the side. It will behave."
+
+"Yes, ma'am."
+
+"And Nazurah."
+
+"Ma."
+
+"Don't stay up too late." It was not a warning. It was a door left slightly open.
+
+The house settled into the particular quiet of a Malaysian evening — the call to prayer drifting from a distant mosque, the hum of the air conditioner, the clatter of dishes being washed. Leon was shown to a spare room with a mattress on the floor and a fan that clicked in a steady rhythm, faithful to its reputation. The walls were thin. He could hear Nazurah moving in the room next to his — the soft drag of a chair, the rustle of fabric, the faint *ping* of her phone charging. He lay on the mattress, staring at the ceiling, the reality of it pressing down on him like the warm weight of the air itself.
+
+She was just down the hall.
+
+His phone buzzed. Telegram.
+
+**Nazurah:** *Can you hear the fan from your room?*
+
+He smiled in the dark.
+
+**Leon:** *Yes. It sounds like it's counting.*
+
+**Nazurah:** *Counting what?*
+
+**Leon:** *The seconds until you message me.*
+
+A pause. Then:
+
+**Nazurah:** *It doesn't have to count anymore. I am here. You are here. The delay is gone.*
+
+**Leon:** *But I'm still afraid to speak too loud. Your mother's room is between us.*
+
+**Nazurah:** *She sleeps like the dead. My father used to say you could shout a fire alarm and she would dream through it. But don't test it.*
+
+He laughed quietly, the sound swallowed by the spinning fan. The phone buzzed again.
+
+**Nazurah:** *This is strange. I can hear your phone buzz when you send. You are so close.*
+
+**Leon:** *Do you remember the first time you messaged me?*
+
+**Nazurah:** *Every word.*
+
+**Leon:** *Tell me.*
+
+And she did. She typed it out slowly, in fragments, the memory rising like the dust of a dry road — the casual greeting, the careful reply, the slow unfolding. He corrected her gently on one detail: *I said "hi," not "hello," and you said "hello, stranger" — that was the moment.* She sent back a string of laughing emojis, then a single line:
+
+**Nazurah:** *It should feel strange. But it doesn't. I feel like I have known you in two lives. The one on the screen, and this one. And both of them are you.*
+
+**Leon:** *And both of them love you.*
+
+The message sat there, unread for a long moment. He watched the double checkmarks turn blue, and then the ellipsis appeared — that familiar, agonizing pulse that meant she was typing. It appeared and disappeared three times. Four. He held his breath.
+
+**Nazurah:** *I know. I have always known. But hearing it in the same house, in the same air, with the fan and the walls and the night… it is a different kind of knowing. It is a knowing that settles in the chest.*
+
+**Leon:** *Is that bad?*
+
+**Nazurah:** *No. It is just… heavier. In a good way. Like a blanket that is just the right weight.*
+
+They talked until the call to prayer faded and the night deepened. He told her about his mother's letter, the one she'd sent with him, folded into his passport, the creases already worn soft. She told him about the swing and all the secrets it had held — the boy she'd liked at fifteen who never noticed her, the examination marks that made her cry, the dreams of a life beyond the garden walls. He listened. She listened. The screen glowed between them, but it was no longer a distance — it was a window. And through it, they could see each other in the dark.
+
+At some point, her messages slowed. The ellipsis appeared once more, then stopped. He waited. A final message came:
+
+**Nazurah:** *I am falling asleep. But I don't want to stop talking.*
+
+**Leon:** *Then don't. Keep your phone open. I'll still be here.*
+
+**Nazurah:** *You will?*
+
+**Leon:** *I will.*
+
+**Nazurah:** *That is the most romantic thing you have ever said, and it is just… staying.*
+
+**Leon:** *Staying is the whole promise.*
+
+There was no reply. But he saw the little green dot — her online status — stay lit for a long time before flickering out. He stayed awake, watching the ceiling, feeling the weight of her presence down the hall like a second heartbeat. The fan clicked. The night held its breath. And somewhere in the dark, on the other side of a thin wall, she was sleeping with her phone in her hand, his last message glowing faintly against her face.
+
+---
+
+He woke to the smell of coffee and the sound of rain — a sudden, tropical downpour that hammered the roof like applause. In the kitchen, he found Nazurah in a simple white kurung, her hair loose, her hands wrapped around a cup. She poured him coffee without a word, and they stood at the window, watching the rain turn the garden into a green blur.
+
+"It rained the morning I got your first late-night message," she said. "I remember because I was supposed to be studying, and I kept reading your words instead of my textbook. The rain made it feel like a secret."
+
+"Is it a secret now?"
+
+She turned to him. The morning light, filtered through rain, made her look softer, younger, more herself. "No," she said. "It is just a fact. Like the sun and the rain. Like this cup of coffee in your hand."
+
+They drank in silence. He thought about all the messages that had led here — the careful words, the shaped replies, the silences that said more than sentences. And now, here she was, in a kitchen, handing him coffee, as if the universe had finally decided to make the metaphor literal.
+
+"Your mother is gone?" he asked.
+
+"Market again. She said she would be back by noon. She also said — and I quote — 'The house is big enough for two people to have a conversation without an audience.'"
+
+Leon felt his ears warm. "She is…"
+
+"Watching," Nazurah finished, smiling. "Always. But she is not cruel. She is just… careful. She was careful with my father too, when he first came to court her. My grandmother said she made him wait three years."
+
+"Three years?"
+
+"Worth it. They were married for thirty-one." She looked at him, steady. "She knows what is worth waiting for."
+
+The rain slowed. The garden emerged, dripping, brighter than before. Nazurah set down her cup and walked to the door, and he followed. The air was clean, washed, new. She stepped onto the wet grass and turned in a slow circle, arms out, face tilted to the sky.
+
+"When I was small," she said, "I used to dance in the rain. My mother would scold me and then watch from the door with a cup of tea, smiling when she thought I couldn't see." She looked at him. "Do you dance, Leon?"
+
+"I have never had occasion."
+
+"There is an occasion now."
+
+It was not a command. It was an invitation — the same one she had extended across a thousand miles, now offered in the rain of her garden. He stepped onto the grass. The water soaked through his shoes. He did not dance — he had no steps, no rhythm, no tradition for it. But he moved, awkwardly, honestly, and she laughed — not at him, but with him, a sound that carried through the wet air like a bell.
+
+And then she took his hands. Hers were cold from the rain. His were warm. The contact was not a lightning strike this time — it was something quieter, steadier. A fact. Like the sun and the rain.
+
+"Your hands," she said, "are exactly the size I imagined."
+
+"The size you imagined?"
+
+"Mm. I measured them against my own, in my mind. I thought, *his hands will be just slightly larger than mine, and they will fit like a lock and key.*" She squeezed. "They do."
+
+They stood in the rain, hands clasped, the water soaking them both. From the house, the distant sound of the gate — her mother, returning early. They did not spring apart this time. They held on a second longer, then let go slowly, a deliberate, shared release, and walked back toward the door, side by side.
+
+In the kitchen, her mother shook out her umbrella and looked at them — soaked, breathless, bright-eyed. She said nothing. But she smiled, a small, knowing thing, and poured herself a cup of tea.
+
+---
+
+That night, the messages resumed. Same app, same green bubbles, same ellipses. But now the geography was different. He was in the room down the hall. She was in hers. The walls were thin.
+
+**Nazurah:** *Today, in the rain, I understood something.*
+
+**Leon:** *Tell me.*
+
+**Nazurah:** *All this time, I thought I was waiting for you to arrive. But I think I was waiting for myself to arrive. The version of me that could stand in the rain and hold your hands and not be afraid. She is here now.*
+
+**Leon:** *I like her.*
+
+**Nazurah:** *She likes you too. Very much.*
+
+The ellipsis appeared again. Then:
+
+**Nazurah:** *What happens after this? After your three weeks? After you go back to Kampala?*
+
+It was the question they had both been circling, the one that lived in the gap between their messages. He typed, deleted, typed again.
+
+**Leon:** *I don't know. But I know this: I have crossed an ocean to stand in your garden. I have learned to sleep in your time zone. I have carried your words across borders and they have carried me back. Whatever comes after is just more of the same — more distance, more waiting, more messages. But the messages will still be true. And I will still be here. Even when I am there.*
+
+There was a long pause. Then:
+
+**Nazurah:** *That is the most romantic thing you have ever said.*
+
+**Leon:** *I meant it.*
+
+**Nazurah:** *I know. That is why it is romantic.*
+
+He watched the green dot stay lit. The fan clicked. The rain had stopped, and the night was quiet, and somewhere down the hall, she was reading his message again, the way she had read his words a hundred times before — as if they were letters, folded and stamped and carried across the world, finally being opened and read.
+
+For the paper itself. For the weight of them.
+
+He fell asleep with his phone in his hand, her last message glowing faintly in the dark — a small, distant sun in the shape of her words, just down the hall, and nearer than any star.
+
 ---
 
