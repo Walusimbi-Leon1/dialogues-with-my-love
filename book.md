@@ -2082,5 +2082,97 @@ For the paper itself. For the weight of them.
 
 He fell asleep with his phone in his hand, her last message glowing faintly in the dark — a small, distant sun in the shape of her words, just down the hall, and nearer than any star.
 
+## Chapter 16 — The Shape of Three Weeks
+
+The days folded into a rhythm that felt both ancient and brand new. Coffee in the morning, rain or shine. A walk through the market where she introduced him to fruits he had never seen — mangosteen, rambutan, jackfruit the size of a child's head — and he watched her haggle in rapid Malay, a language that sounded like music with sharp edges. She translated for him, laughing at his confusion, and he found himself learning the shapes of her words the way he had once learned the shapes of her message bubbles: slowly, hungrily, with the certainty that this was a language he wanted to speak.
+
+Nazurah's mother watched from doorways, from the kitchen, from the garden where she trimmed roses with deliberate slowness. She never interrupted, never hovered — she simply existed in the periphery, a quiet guardian of boundaries. On the third day, she asked him, over lunch, about his family. He spoke of his mother in Kampala, his younger sister who wanted to be a doctor, his father who had died when Leon was twelve, leaving a gap that Leon had filled with books and silence and, later, with words.
+
+Her mother listened. Nodded. Poured him more tea.
+
+"You carry your father with you," she said. "I can see it in the way you stand."
+
+It was the first time anyone had said that to him. He did not know how to answer. Nazurah's hand found his under the table, brief and warm, and then withdrew.
+
+---
+
+On the fifth morning, they drove to the coast.
+
+Nazurah's mother had insisted — "You cannot come to Malaysia and not see the sea" — and had pressed her car keys into her daughter's hand with a look that said more than words. Nazurah drove with a confidence that surprised him, one hand on the wheel, one hand gesturing as she narrated the landscape: palm oil plantations, tin mining lakes, small towns with names he could not pronounce and did not need to. The radio played a slow song in Malay, and she hummed along, and he watched her profile against the moving light and thought: *this is what she looks like when she is not waiting for a message.*
+
+At the beach, the water was warm and grey-green, the sand a pale gold that clung to their feet. They walked along the shoreline without speaking, the sound of the waves filling the space where words usually lived. She stopped at a cluster of rocks and sat down, patting the space beside her.
+
+"I used to come here with my father," she said. "He would tell me the names of the stars at night. He knew them all — not the Western names, but the Malay ones, the old ones. He said the stars were his grandmother's map, passed down from generation to generation, and that if I ever got lost, I should look up and remember that I was never truly alone."
+
+Leon looked at the sky, pale and washed by the afternoon sun. "I did not grow up with stars," he said. "In Kampala, the city lights hide them. But when I was small, my father took me to the village once, and I saw the Milky Way for the first time. I thought it was a road. I asked him where it led."
+
+"What did he say?"
+
+"He said, 'Everywhere. That is the point.'"
+
+She smiled. "Your father and mine would have liked each other."
+
+"I think so too."
+
+The waves continued their slow arithmetic, adding and subtracting against the shore. She picked up a shell, turned it over, held it to her ear.
+
+"Do you think," she said, "that we would have found each other anyway? Without the internet, without Telegram, without the accident of a shared language and a sleepless night?"
+
+Leon considered the question. It was the kind of question she asked — the kind that lived in the gap between idle curiosity and deep fear.
+
+"I do not know about fate," he said. "But I know that when I first saw your message, I read it three times before I replied. I did not want to be careless with it. I did not want to be careless with you. That was not an accident. That was a choice."
+
+She set the shell down. "A choice you keep making."
+
+"Every day."
+
+The sun began its slow descent, painting the water in shades of amber and rose. She leaned against his shoulder, not heavily, just enough to feel her there. He did not move. He was learning that this was the language of her presence — not words, but weight. Not declarations, but durations.
+
+---
+
+That night, back at the house, they sat on the porch while the insects sang their metallic chorus. Her mother had retired early, and the house was dark behind them, the garden a green darkness in front.
+
+**Nazurah:** *I have been thinking about what happens after.*
+
+**Leon:** *I have been thinking about it too.*
+
+**Nazurah:** *I do not want to be sad about it. I want to be grateful. But I am a little sad too. Is that allowed?*
+
+**Leon:** *It is allowed. It is honest. Sadness is not the opposite of gratitude. It is the proof that the thing was real.*
+
+**Nazurah:** *When did you become so wise?*
+
+**Leon:** *When I started talking to a girl in Malaysia who asked me questions no one else had ever asked.*
+
+**Nazurah:** *Ha. Flattery.*
+
+**Leon:** *Truth.*
+
+The ellipsis appeared. Stayed. He waited.
+
+**Nazurah:** *I want to give you something before you leave. Something that is not a message.*
+
+**Leon:** *You have already given me everything.*
+
+**Nazurah:** *That is not true. I have given you the easiest parts. The words. The feelings. The parts that cost nothing. I want to give you something that costs something.*
+
+He did not know how to respond. He waited for her next message, but none came. Instead, the screen flickered with an incoming call. Her voice, when she spoke, was low and close, as if she were whispering from the next room.
+
+"Do not say anything," she said. "Just listen."
+
+And then she began to sing.
+
+It was a Malay song, slow and melodic, a song he did not know but understood anyway — the way grief and longing and love are the same in every language. Her voice was not trained, not perfect, but it was true, and it carried through the phone with a tenderness that made his chest ache. She sang for perhaps two minutes, and then she stopped.
+
+"That was my grandmother's song," she said. "She sang it to my mother, and my mother sang it to me, and I have never sung it to anyone outside my family. Now you have it. Keep it. It will not fit in a message, but it will fit in you."
+
+Leon closed his eyes. The song was still there, ringing in the space behind his ribs.
+
+"I will keep it," he said. "I will keep it forever."
+
+"Good," she said. "Now you have something of mine that costs something."
+
+He heard her smile in the dark of the porch, and he smiled too, and the insects sang on, and the green dot stayed lit, and the night held them both, just down the hall from each other, closer than any message could ever be.
+
 ---
 
