@@ -2174,5 +2174,141 @@ Leon closed his eyes. The song was still there, ringing in the space behind his 
 
 He heard her smile in the dark of the porch, and he smiled too, and the insects sang on, and the green dot stayed lit, and the night held them both, just down the hall from each other, closer than any message could ever be.
 
+## Chapter 17 — The Weight of Small Things
+
+The morning of his departure arrived with the grey patience of a day that knows it will be remembered. Leon woke before the alarm, before the birds, before the first light began its slow negotiation with the curtains. He lay still in the unfamiliar bed and listened to the house breathe around him — the creak of wood settling, the distant hum of the refrigerator, the soft padding of footsteps that could only be Nazurah's mother, an early riser who moved through her domain like a quiet tide.
+
+He had been in Malaysia for nine days. It felt like a lifetime and a blink.
+
+When he finally emerged, the kitchen was already alive with the smell of coconut milk and pandan. Nazurah's mother stood at the stove, her back to him, stirring a pot with the unhurried rhythm of someone who had been cooking for decades and intended to keep doing so for decades more. She did not turn when he entered, but she spoke.
+
+"You are leaving today."
+
+It was not a question.
+
+"Yes," he said. "The flight is in the evening."
+
+"Then you have time for a proper breakfast." She gestured to the table, where a plate of nasi lemak waited — the banana leaf still warm, the sambal dark and glossy, the anchovies scattered like small golden coins. "Sit. Eat. A man cannot travel on an empty heart."
+
+He sat. He ate. The food was rich and spicy and somehow sad, and he ate it all anyway, because it was hers, and because she had made it for him, and because he understood that this was her language — not words, but nourishment.
+
+Nazurah appeared in the doorway, hair still damp from a shower, wearing a simple white kurung that made her look both younger and somehow more herself. She did not say good morning. She simply looked at him, and he looked at her, and the kitchen seemed to hold its breath.
+
+Her mother glanced between them, then returned to her pot. "I will be in the garden," she said. "The roses need attention."
+
+She left, and the garden door clicked shut behind her, and Nazurah sat down across from him, pulling the banana leaf toward her with the ease of someone who had done this a thousand times. She ate in silence for a moment, then said, "I have been thinking about how to say goodbye."
+
+"Have you found the words?"
+
+"No." She smiled, small and crooked. "I have decided that some things are not meant to be said. They are meant to be carried."
+
+He reached across the table and took her hand. Her fingers were warm, slightly sticky from the sambal, and he did not mind. "Then we will carry it together."
+
+She squeezed his hand, and they stayed like that, two young people holding hands across a breakfast table in a kitchen that smelled of coconut and heartbreak, while the morning light grew bolder and the clock on the wall continued its indifferent arithmetic.
+
+---
+
+The hours before his departure passed in a strange suspension, as if time itself had agreed to slow down for their sake. They drove to the market one last time, and she bought him a small tin of dried anchovies — "So you can taste Malaysia when you miss me" — and a packet of pandan-flavored tea, and a cheap plastic bracelet woven in red and gold that she slipped onto his wrist with a matter-of-factness that belied her trembling fingers.
+
+"It is not expensive," she said. "But it is mine. I bought it at the night market when I was twelve. I have worn it every day since. Now you wear it, and when you look at it, you will know that I am wearing the memory of you."
+
+He looked at the bracelet. It was simple, almost childish, the kind of thing a twelve-year-old would pick out at a market stall. But it was warm from her wrist, and it carried the faint scent of her skin, and he understood that she had given him something that cost something — not money, but years.
+
+"Thank you," he said. "I will never take it off."
+
+She laughed, a sound that cracked at the edges. "That is a very serious promise, Leon. It will not match your suits when you become a great man."
+
+"I do not want to be a great man," he said. "I want to be a man who kept his promise."
+
+She looked at him, and her eyes were bright, and she did not say anything, and that was enough.
+
+---
+
+The airport was loud in the way airports always are — a cathedral of departures and arrivals, of people embracing and people weeping and people checking their watches with the impatience of those who have somewhere else to be. Leon and Nazurah stood near the check-in counter, surrounded by the chaos of other lives, and tried to find a private pocket of space in the noise.
+
+Her mother had come to see him off. She stood a few steps away, holding a small container of kuih — the little cakes she had pressed into his hands "for the journey" — and watching them with an expression that was difficult to read. There was something in her eyes that Leon had not seen before, something that looked almost like approval, or perhaps resignation, or perhaps both.
+
+"Take care of yourself," she said, when he approached her. "You are a good boy. I can tell. My daughter does not make mistakes in love."
+
+He did not know how to answer that. He bowed slightly, the way he had learned to do in the past nine days, and she nodded, and then she turned and walked toward the exit, leaving him alone with Nazurah.
+
+The moment stretched. The noise of the airport seemed to recede, leaving only the space between them.
+
+**Nazurah:** *I have a last thing to tell you.*
+
+**Leon:** *I am listening.*
+
+**Nazurah:** *When I first sent you that message, I did not expect anything. I was bored, and it was late, and I thought you would not reply. But you did. And then you kept replying. And then one day I realized that I was not checking my phone because I was bored. I was checking it because I was waiting for you.*
+
+**Leon:** *I know. I felt the same.*
+
+**Nazurah:** *I want you to know that I have never regretted it. Not once. Not even in the moments when it hurt, when the time difference felt like a wall, when I wanted to tell you something and could not because you were asleep on the other side of the world. I have never regretted it.*
+
+**Leon:** *Neither have I.*
+
+She looked at him, and he looked at her, and the seconds passed, and neither of them moved. And then she stepped forward, and she hugged him — not the careful, side-armed embrace of a first meeting, but a full, desperate, honest hug, her arms around his neck, her face buried in his shoulder, her body trembling with the effort of not crying.
+
+He held her. He held her the way he had wanted to hold her for forty days and forty nights of messages, the way he had held her on the porch when the insects sang, the way he would hold her in his memory for the years to come. He held her, and he did not let go, and the airport roared around them, and he did not care.
+
+When she finally pulled back, her eyes were wet, but she was smiling. She reached up and touched the bracelet on his wrist, turning it once, twice, as if checking that it was still there.
+
+"Go," she said. "Before I do something embarrassing like beg you to stay."
+
+"Do you want me to stay?"
+
+"Yes." Her voice was small. "But I also want you to go, and become the man you are supposed to become, and then come back. I want both things, and they are both true, and I refuse to choose between them."
+
+He smiled. "That is the most Nazurah thing you have ever said."
+
+"Good," she said. "Now go. Send me a message when you land. Even if it is three in the morning for me. I want to know you are safe."
+
+"I will."
+
+He picked up his bag. He turned toward the security line. He walked three steps, and then he stopped, and he turned back.
+
+"Nazurah."
+
+"Yes?"
+
+"The song you sang me," he said. "I have been trying to find words for it. I have not found them yet. But I will. I will find them, and I will send them to you, and they will be worth the wait."
+
+She nodded, and she smiled, and she raised her hand in a small wave, and he raised his in return, and the bracelet caught the airport light, red and gold, a small treasure on his wrist.
+
+Then he turned away, and he did not look back, because he knew that if he did, he would not be able to leave.
+
+---
+
+The plane lifted off at 7:42 PM. He watched the lights of Kuala Lumpur shrink beneath him, a constellation of gold and white that gradually dissolved into darkness and ocean. He pressed his wrist to his chest, feeling the bracelet against his skin, and he closed his eyes, and he heard her voice — not the words, but the song, the one she had sung to him on the porch, the one that would not fit in a message.
+
+It fit in him.
+
+When the plane crossed into international airspace, he pulled out his phone. The screen was dark. He did not turn it on. He wanted to keep this moment clean, unmarked by the weight of time zones and roaming charges and the inevitable countdown of notification timestamps.
+
+He wanted to hold the silence a little longer.
+
+But when the cabin lights dimmed and the other passengers settled into sleep, he turned the phone on. The screen glowed in the darkness, a small rectangle of light in the vast dark of the Indian Ocean. He opened Telegram. Her name was there, her green dot dark, her last message still glowing warm on the screen.
+
+**Nazurah:** *I am wearing a blue bracelet now. I bought it at the same stall. So we match. Go and be great, my love. I will be here when you return.*
+
+He read the message three times. Then he typed his reply, slowly, one letter at a time, as if the words themselves were precious objects that needed careful handling.
+
+**Leon:** *I will be great, because I know what I am coming back to.*
+
+He sent it. The message arrow turned from grey to blue. He watched it, and he thought of her, somewhere across the sky, sleeping in a house that smelled of pandan and roses, wearing a blue bracelet on her wrist, waiting for him.
+
+He pressed his fingers to the bracelet on his own wrist, red and gold, warm from his skin now.
+
+Then he closed his eyes, and he let the song play in his chest, and he carried her with him across the ocean, into the night, toward a future that was uncertain and terrifying and beautiful.
+
+He did not know what would come next. He did not know if the distance would hold, or if the time difference would break them, or if love could survive the slow erosion of days without touch.
+
+But he knew one thing, with a certainty that surprised him.
+
+He would come back.
+
+He would find the words.
+
+And the song would never leave him.
+
 ---
 
